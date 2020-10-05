@@ -29,7 +29,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1 tvh-chnum="009",Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
-#EXTINF:-1 tvh-chnum="009",A Punt
+#EXTINF:-1 tvh-chnum="009",À Punt
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvh-chnum="010",betevé
 http://192.168.1.149:4436/udp/239.0.0.110:8208
