@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvh-chnum="001",La 1
 http://192.168.1.149:4436/udp/239.0.5.201:8208
 #EXTINF:-1 tvh-chnum="002",La 2
@@ -19,7 +20,7 @@ http://192.168.1.149:4436/udp/239.0.5.197:8208
 http://192.168.1.149:4436/udp/239.0.0.56:8208
 #EXTINF:-1 tvh-chnum="009",TV3
 http://192.168.1.149:4436/udp/239.0.5.186:8208
-#EXTINF:-1 tvh-chnum="009",C33
+#EXTINF:-1 tvh-chnum="009",Super 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8
 #EXTINF:-1 tvh-chnum="009",Esport 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
