@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvh-chnum="001",La1
+#EXTINF:-1 tvh-chnum="001",La 1
 http://192.168.1.149:4436/udp/239.0.5.201:8208
-#EXTINF:-1 tvh-chnum="002",La2
+#EXTINF:-1 tvh-chnum="002",La 2
 http://192.168.1.149:4436/udp/239.0.0.161:8208 
 #EXTINF:-1  tvh-chnum="003",Antena 3
 http://192.168.1.149:4436/udp/239.0.0.186:8208
