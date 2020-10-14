@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,La 1 Catalunya
+#EXTINF:0,La 1 CAT
 rtp://@239.0.5.201:8208
-#EXTINF:0,La 2 Catalunya
+#EXTINF:0,La 2 CAT
 rtp://@239.0.0.161:8208
 #EXTINF:0,Antena 3
 rtp://@239.0.0.186:8208
@@ -11,7 +11,7 @@ rtp://@239.0.0.177:8208
 rtp://@239.0.0.176:8208
 #EXTINF:0,La Sexta
 rtp://@239.0.0.187:8208
-#EXTINF:0,Canal Andalucia
+#EXTINF:0,Canal Sur Andalucia
 rtp://@239.0.0.1:8208
 #EXTINF:0,rtp://239.0.0.2:8208
 rtp://@239.0.0.2:8208
@@ -21,7 +21,7 @@ rtp://@239.0.0.3:8208
 rtp://@239.0.0.4:8208
 #EXTINF:0,rtp://239.0.0.5:8208
 rtp://@239.0.0.5:8208
-#EXTINF:0,Discovery Kiss
+#EXTINF:0,DKISS
 rtp://@239.0.0.6:8208
 #EXTINF:0,rtp://239.0.0.8:8208
 rtp://@239.0.0.8:8208
@@ -91,7 +91,7 @@ rtp://@239.0.0.59:8208
 rtp://@239.0.0.60:8208
 #EXTINF:0,rtp://239.0.0.62:8208
 rtp://@239.0.0.62:8208
-#EXTINF:0,Toro TV
+#EXTINF:0,TV Toro
 rtp://@239.0.0.63:8208
 #EXTINF:0,rtp://239.0.0.64:8208
 rtp://@239.0.0.64:8208
@@ -121,19 +121,19 @@ rtp://@239.0.0.78:8208
 rtp://@239.0.0.79:8208
 #EXTINF:0,rtp://239.0.0.80:8208
 rtp://@239.0.0.80:8208
-#EXTINF:0,Aragon TV Internacional
+#EXTINF:0,Aragon TV Int
 rtp://@239.0.0.81:8208
 #EXTINF:0,rtp://239.0.0.83:8208
 rtp://@239.0.0.83:8208
 #EXTINF:0,rtp://239.0.0.84:8208
 rtp://@239.0.0.84:8208
-#EXTINF:0,negocios.
+#EXTINF:0,Negocios TV
 rtp://@239.0.0.85:8208
 #EXTINF:0,rtp://239.0.0.89:8208
 rtp://@239.0.0.89:8208
-#EXTINF:0,Paramount Channel
+#EXTINF:0,Paramount
 rtp://@239.0.0.90:8208
-#EXTINF:0,13 TV
+#EXTINF:0,13TV
 rtp://@239.0.0.91:8208
 #EXTINF:0,rtp://239.0.0.92:8208
 rtp://@239.0.0.92:8208
@@ -189,7 +189,7 @@ rtp://@239.0.0.171:8208
 rtp://@239.0.0.173:8208
 #EXTINF:0,Comedy Central
 rtp://@239.0.0.174:8208
-#EXTINF:0,UBEAT
+#EXTINF:0,UBEAT HD
 rtp://@239.0.0.178:8208
 #EXTINF:0,Real Madrid TV
 rtp://@239.0.0.179:8208
@@ -205,7 +205,7 @@ rtp://@239.0.0.184:8208
 rtp://@239.0.0.185:8208
 #EXTINF:0,Teledeporte
 rtp://@239.0.0.188:8208
-#EXTINF:0,A3 Series
+#EXTINF:0,A3Series
 rtp://@239.0.0.190:8208
 #EXTINF:0,rtp://239.0.0.193:8208
 rtp://@239.0.0.193:8208
@@ -273,15 +273,15 @@ rtp://@239.0.3.29:8208
 rtp://@239.0.3.30:8208
 #EXTINF:0,rtp://239.0.3.31:8208
 rtp://@239.0.3.31:8208
-#EXTINF:0,À Punt SD
+#EXTINF:0,À Punt
 rtp://@239.0.3.32:8208
 #EXTINF:0,rtp://239.0.3.33:8208
 rtp://@239.0.3.33:8208
-#EXTINF:0,8 Mediterraneo
+#EXTINF:0,Mediterraneo 8
 rtp://@239.0.3.34:8208
 #EXTINF:0,rtp://239.0.3.35:8208
 rtp://@239.0.3.35:8208
-#EXTINF:0,TV3Cat
+#EXTINF:0,TV3CAT
 rtp://@239.0.3.36:8208
 #EXTINF:0,rtp://239.0.3.37:8208
 rtp://@239.0.3.37:8208
@@ -321,13 +321,13 @@ rtp://@239.0.5.75:8208
 rtp://@239.0.5.76:8208
 #EXTINF:0,Discovery Channel
 rtp://@239.0.5.77:8208
-#EXTINF:0,Nat Geographic
+#EXTINF:0,National Geographic
 rtp://@239.0.5.78:8208
 #EXTINF:0,AXN White
 rtp://@239.0.5.79:8208
 #EXTINF:0,rtp://239.0.5.82:8208
 rtp://@239.0.5.82:8208
-#EXTINF:0,M. Seriesmanía
+#EXTINF:0,M. Series
 rtp://@239.0.5.83:8208
 #EXTINF:0,TNT
 rtp://@239.0.5.87:8208
@@ -347,7 +347,7 @@ rtp://@239.0.5.180:8208
 rtp://@239.0.5.181:8208
 #EXTINF:0,TVG
 rtp://@239.0.5.182:8208
-#EXTINF:0,TVG2
+#EXTINF:0,TVG 2
 rtp://@239.0.5.183:8208
 #EXTINF:0,Portada
 rtp://@239.0.5.185:8208
