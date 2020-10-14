@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,La 1 CAT
+#EXTINF:0,La 1 Catalunya
 rtp://@239.0.5.201:8208
-#EXTINF:0,La 2 CAT
+#EXTINF:0,La 2 Catalunya
 rtp://@239.0.0.161:8208
 #EXTINF:0,Antena 3
 rtp://@239.0.0.186:8208
@@ -11,7 +11,7 @@ rtp://@239.0.0.177:8208
 rtp://@239.0.0.176:8208
 #EXTINF:0,La Sexta
 rtp://@239.0.0.187:8208
-#EXTINF:0,Canal Sur Andalucia
+#EXTINF:0,Canal Sur Andalucía
 rtp://@239.0.0.1:8208
 #EXTINF:0,rtp://239.0.0.2:8208
 rtp://@239.0.0.2:8208
@@ -127,13 +127,13 @@ rtp://@239.0.0.81:8208
 rtp://@239.0.0.83:8208
 #EXTINF:0,rtp://239.0.0.84:8208
 rtp://@239.0.0.84:8208
-#EXTINF:0,Negocios TV
+#EXTINF:0,Negocios
 rtp://@239.0.0.85:8208
 #EXTINF:0,rtp://239.0.0.89:8208
 rtp://@239.0.0.89:8208
 #EXTINF:0,Paramount
 rtp://@239.0.0.90:8208
-#EXTINF:0,13TV
+#EXTINF:0,13tv
 rtp://@239.0.0.91:8208
 #EXTINF:0,rtp://239.0.0.92:8208
 rtp://@239.0.0.92:8208
@@ -205,7 +205,7 @@ rtp://@239.0.0.184:8208
 rtp://@239.0.0.185:8208
 #EXTINF:0,Teledeporte
 rtp://@239.0.0.188:8208
-#EXTINF:0,A3Series
+#EXTINF:0,Atreseries
 rtp://@239.0.0.190:8208
 #EXTINF:0,rtp://239.0.0.193:8208
 rtp://@239.0.0.193:8208
@@ -277,7 +277,7 @@ rtp://@239.0.3.31:8208
 rtp://@239.0.3.32:8208
 #EXTINF:0,rtp://239.0.3.33:8208
 rtp://@239.0.3.33:8208
-#EXTINF:0,Mediterraneo 8
+#EXTINF:0,8Mediterraneo
 rtp://@239.0.3.34:8208
 #EXTINF:0,rtp://239.0.3.35:8208
 rtp://@239.0.3.35:8208
@@ -361,7 +361,7 @@ rtp://@239.0.5.189:8208
 rtp://@239.0.5.190:8208
 #EXTINF:0,#0
 rtp://@239.0.5.191:8208
-#EXTINF:0,Canal Sur
+#EXTINF:0,Canal Sur Andalucía
 rtp://@239.0.5.192:8208
 #EXTINF:0,Nickelodeon
 rtp://@239.0.5.193:8208
