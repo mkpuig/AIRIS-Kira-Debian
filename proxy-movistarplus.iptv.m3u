@@ -1,202 +1,201 @@
 #EXTM3U
-
-#EXTINF:-1 tvh-chnum="001",La 1
+#EXTINF:0 La 1
 http://192.168.1.149:4436/udp/239.0.5.201:8208
-#EXTINF:-1 tvh-chnum="002",La 2
+#EXTINF:0 La 2
 http://192.168.1.149:4436/udp/239.0.0.161:8208 
-#EXTINF:-1  tvh-chnum="003",Antena 3
+#EXTINF:0  Antena 3
 http://192.168.1.149:4436/udp/239.0.0.186:8208
-#EXTINF:-1  tvh-chnum="004",Cuatro
+#EXTINF:0  Cuatro
 http://192.168.1.149:4436/udp/239.0.0.177:8208
-#EXTINF:-1  tvh-chnum="005",Telecinco
+#EXTINF:0  Telecinco
 http://192.168.1.149:4436/udp/239.0.0.176:8208
-#EXTINF:-1  tvh-chnum="006",La Sexta
+#EXTINF:0  La Sexta
 http://192.168.1.149:4436/udp/239.0.0.187:8208
-#EXTINF:-1  tvh-chnum="007",#0
+#EXTINF:0  #0
 http://192.168.1.149:4436/udp/239.0.5.187:8208
-#EXTINF:-1  tvh-chnum="008",#Vamos
+#EXTINF:0  #Vamos
 http://192.168.1.149:4436/udp/239.0.5.197:8208
-#EXTINF:-1  tvh-chnum="009",IB3
+#EXTINF:0  IB3
 http://192.168.1.149:4436/udp/239.0.0.56:8208
-#EXTINF:-1 tvh-chnum="009",TV3
+#EXTINF:0 TV3
 http://192.168.1.149:4436/udp/239.0.5.186:8208
-#EXTINF:-1 tvh-chnum="009",33
+#EXTINF:0 33
 https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8
-#EXTINF:-1 tvh-chnum="009",Esport 3
+#EXTINF:0 Esport 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 tvh-chnum="009",324
+#EXTINF:0 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
-#EXTINF:-1 tvh-chnum="009",Canal 4
+#EXTINF:0 Canal 4
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
-#EXTINF:-1 tvh-chnum="009",Bon Dia TV
+#EXTINF:0 Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
-#EXTINF:-1 tvh-chnum="009",À Punt
+#EXTINF:0 À Punt
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1 tvh-chnum="010",betevé
+#EXTINF:0 betevé
 http://192.168.1.149:4436/udp/239.0.0.110:8208
-#EXTINF:-1 tvh-chnum="009",Canal Sur 1
+#EXTINF:0 Canal Sur 1
 http://192.168.1.149:4436/udp/239.0.5.192:8208
-#EXTINF:-1 tvh-chnum="009",ETB 1
+#EXTINF:0 ETB 1
 http://192.168.1.149:4436/udp/239.0.5.178:8208
-#EXTINF:-1 tvh-chnum="010",ETB 2
+#EXTINF:0 ETB 2
 http://192.168.1.149:4436/udp/239.0.5.179:8208
-#EXTINF:-1  tvh-chnum="010",ETB 3
+#EXTINF:0  ETB 3
 http://192.168.1.149:4436/udp/239.0.0.105:8208
-#EXTINF:-1 tvh-chnum="010",TVG
+#EXTINF:0 TVG
 http://192.168.1.149:4436/udp/239.0.5.182:8208
-#EXTINF:-1 tvh-chnum="010",TVG 2
+#EXTINF:0 TVG 2
 http://192.168.1.149:4436/udp/239.0.5.183:8208
-#EXTINF:-1  tvh-chnum="150",Canal Sur Andalucía
+#EXTINF:0  Canal Sur Andalucía
 http://192.168.1.149:4436/udp/239.0.0.1:8208
-#EXTINF:-1 tvh-chnum="151",Galicia TV Europa
+#EXTINF:0 Galicia TV Europa
 http://192.168.1.149:4436/udp/239.0.3.37:8208
-#EXTINF:-1  tvh-chnum="152",Canal Extremadura SAT
+#EXTINF:0  Canal Extremadura SAT
 http://192.168.1.149:4436/udp/239.0.0.52:8208
-#EXTINF:-1   tvh-chnum="153",TV3CAT
+#EXTINF:0   TV3CAT
 http://192.168.1.149:4436/udp/239.0.3.36:8208
-#EXTINF:-1 tvh-chnum="154",ETB Sat
+#EXTINF:0 ETB Sat
 http://192.168.1.149:4436/udp/239.0.0.60:8208
-#EXTINF:-1   tvh-chnum="155",Aragón TV Int
+#EXTINF:0   Aragón TV Int
 http://192.168.1.149:4436/udp/239.0.0.81:8208
-#EXTINF:-1 tvh-chnum="010",Milenio Live*
+#EXTINF:0 Milenio Live*
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
-#EXTINF:-1  tvh-chnum="030",Movistar Estrenos
+#EXTINF:0  Movistar Estrenos
 http://192.168.1.149:4436/udp/239.0.5.111:8208
-#EXTINF:-1  tvh-chnum="031",Movistar CineDoc&Roll {DRM}
+#EXTINF:0  Movistar CineDoc&Roll {DRM}
 http://192.168.1.149:4436/udp/239.0.5.112:8208
-#EXTINF:-1  tvh-chnum="032",Movistar Disney
+#EXTINF:0  Movistar Disney
 http://192.168.1.149:4436/udp/239.0.5.108:8208
-#EXTINF:-1  tvh-chnum="033",Movistar Acción
+#EXTINF:0  Movistar Acción
 http://192.168.1.149:4436/udp/239.0.5.113:8208
-#EXTINF:-1  tvh-chnum="034",Movistar Comedia
+#EXTINF:0  Movistar Comedia
 http://192.168.1.149:4436/udp/239.0.5.114:8208
-#EXTINF:-1  tvh-chnum="035",Movistar Drama
+#EXTINF:0  Movistar Drama
 http://192.168.1.149:4436/udp/239.0.5.115:8208
-#EXTINF:-1  tvh-chnum="036",Movistar Cine Español
+#EXTINF:0  Movistar Cine Español
 http://192.168.1.149:4436/udp/239.0.5.109:8208
-#EXTINF:-1  tvh-chnum="053",Movistar Deportes {DRM}
+#EXTINF:0  Movistar Deportes {DRM}
 http://192.168.1.149:4436/udp/239.0.5.248:8208
-#EXTINF:-1  tvh-chnum="054",Movistar Deportes 1
+#EXTINF:0  Movistar Deportes 1
 http://192.168.1.149:4436/udp/239.0.6.34:8208
-#EXTINF:-1  tvh-chnum="055",Movistar Deportes 2
+#EXTINF:0  Movistar Deportes 2
 http://192.168.1.149:4436/udp/239.0.6.35:8208
-#EXTINF:-1  tvh-chnum="056",Movistar Deportes 3
+#EXTINF:0  Movistar Deportes 3
 http://192.168.1.149:4436/udp/239.0.6.36:8208
-#EXTINF:-1  tvh-chnum="059",Movistar Golf
+#EXTINF:0  Movistar Golf
 http://192.168.1.149:4436/udp/239.0.5.249:8208
-#EXTINF:-1  tvh-chnum="192",Movistar Deportes 4
+#EXTINF:0  Movistar Deportes 4
 http://192.168.1.149:4436/udp/239.0.6.37:8208
-#EXTINF:-1  tvh-chnum="193",Movistar Deportes 5
+#EXTINF:0  Movistar Deportes 5
 http://192.168.1.149:4436/udp/239.0.6.38:8208
-#EXTINF:-1  tvh-chnum="013",FOX
+#EXTINF:0  FOX
 http://192.168.1.149:4436/udp/239.0.9.134:8208
-#EXTINF:-1  tvh-chnum="014",AXN
+#EXTINF:0  AXN
 http://192.168.1.149:4436/udp/239.0.9.131:8208
-#EXTINF:-1  tvh-chnum="015",TNT
+#EXTINF:0  TNT
 http://192.168.1.149:4436/udp/239.0.5.87:8208
-#EXTINF:-1  tvh-chnum="016",Comedy Central
+#EXTINF:0  Comedy Central
 http://192.168.1.149:4436/udp/239.0.0.174:8208
-#EXTINF:-1  tvh-chnum="017",Calle 13
+#EXTINF:0  Calle 13
 http://192.168.1.149:4436/udp/239.0.5.74:8208
-#EXTINF:-1  tvh-chnum="018",COSMO
+#EXTINF:0  COSMO
 http://192.168.1.149:4436/udp/239.0.5.71:8208
-#EXTINF:-1  tvh-chnum="019",AMC
+#EXTINF:0  AMC
 http://192.168.1.149:4436/udp/239.0.9.132:8208
-#EXTINF:-1  tvh-chnum="020",FOX life
+#EXTINF:0  FOX life
 http://192.168.1.149:4436/udp/239.0.0.165:8208
-#EXTINF:-1  tvh-chnum="021",AXN White
+#EXTINF:0  AXN White
 http://192.168.1.149:4436/udp/239.0.5.79:8208
-#EXTINF:-1  tvh-chnum="022",Syfy
+#EXTINF:0  Syfy
 http://192.168.1.149:4436/udp/239.0.5.75:8208
-#EXTINF:-1  tvh-chnum="026",Neox
+#EXTINF:0  Neox
 http://192.168.1.149:4436/udp/239.0.5.207:8208
-#EXTINF:-1  tvh-chnum="027",Atreseries
+#EXTINF:0  Atreseries
 http://192.168.1.149:4436/udp/239.0.0.190:8208
-#EXTINF:-1  tvh-chnum="037",TCM
+#EXTINF:0  TCM
 http://192.168.1.149:4436/udp/239.0.5.89:8208
-#EXTINF:-1  tvh-chnum="038",Hollywood
+#EXTINF:0  Hollywood
 http://192.168.1.149:4436/udp/239.0.5.76:8208
-#EXTINF:-1  tvh-chnum="039",Sundance Channel
+#EXTINF:0  Sundance Channel
 http://192.168.1.149:4436/udp/239.0.5.72:8208
-#EXTINF:-1  tvh-chnum="044",DEPORTES
+#EXTINF:0  DEPORTES
 http://192.168.1.149:4436/udp/239.0.0.180:8208
-#EXTINF:-1  tvh-chnum="045",#Vamos
+#EXTINF:0  #Vamos
 http://192.168.1.149:4436/udp/239.0.5.197:8208
-#EXTINF:-1  tvh-chnum="058",UBEAT
+#EXTINF:0  UBEAT
 http://192.168.1.149:4436/udp/239.0.0.178:8208
-#EXTINF:-1  tvh-chnum="061",Eurosport 1
+#EXTINF:0  Eurosport 1
 http://192.168.1.149:4436/udp/239.0.9.135:8208
-#EXTINF:-1  tvh-chnum="062",Eurosport 2
+#EXTINF:0  Eurosport 2
 http://192.168.1.149:4436/udp/239.0.5.105:8208
-#EXTINF:-1  tvh-chnum="063",GOL
+#EXTINF:0  GOL
 http://192.168.1.149:4436/udp/239.0.5.189:8208
-#EXTINF:-1  tvh-chnum="064",Teledeporte
+#EXTINF:0  Teledeporte
 http://192.168.1.149:4436/udp/239.0.0.188:8208
-#EXTINF:-1  tvh-chnum="068",Real Madrid TV
+#EXTINF:0  Real Madrid TV
 http://192.168.1.149:4436/udp/239.0.0.179:8208
-#EXTINF:-1  tvh-chnum="069",Barça TV
+#EXTINF:0  Barça TV
 http://192.168.1.149:4436/udp/239.0.5.199:8208
-#EXTINF:-1  tvh-chnum="070",National Geographic
+#EXTINF:0  National Geographic
 http://192.168.1.149:4436/udp/239.0.5.78:8208
-#EXTINF:-1  tvh-chnum="071",Nat Geo Wild
+#EXTINF:0  Nat Geo Wild
 http://192.168.1.149:4436/udp/239.0.9.136:8208
-#EXTINF:-1  tvh-chnum="073",Discovery Channel
+#EXTINF:0  Discovery Channel
 http://192.168.1.149:4436/udp/239.0.5.77:8208
-#EXTINF:-1  tvh-chnum="074",Odisea
+#EXTINF:0  Odisea
 http://192.168.1.149:4436/udp/239.0.5.82:8208
-#EXTINF:-1  tvh-chnum="076",Viajar
+#EXTINF:0  Viajar
 http://192.168.1.149:4436/udp/239.0.5.73:8208
-#EXTINF:-1  tvh-chnum="084",Nova
+#EXTINF:0  Nova
 http://192.168.1.149:4436/udp/239.0.5.209:8208
-#EXTINF:-1  tvh-chnum="085",MEGA
+#EXTINF:0  MEGA
 http://192.168.1.149:4436/udp/239.0.5.210:8208
-#EXTINF:-1  tvh-chnum="086",BeMad
+#EXTINF:0  BeMad
 http://192.168.1.149:4436/udp/239.0.0.182:8208
-#EXTINF:-1  tvh-chnum="096",BabyTV
+#EXTINF:0  BabyTV
 http://192.168.1.149:4436/udp/239.0.0.113:8208
-#EXTINF:-1  tvh-chnum="093",Nick Jr
+#EXTINF:0  Nick Jr
 http://192.168.1.149:4436/udp/239.0.0.167:8208
-#EXTINF:-1  tvh-chnum="094",Nickelodeon
+#EXTINF:0  Nickelodeon
 http://192.168.1.149:4436/udp/239.0.5.204:8208
-#EXTINF:-1  tvh-chnum="096",Disney Channel
+#EXTINF:0  Disney Channel
 http://192.168.1.149:4436/udp/239.0.0.173:8208
-#EXTINF:-1  tvh-chnum="096",Disney Junior
+#EXTINF:0  Disney Junior
 http://192.168.1.149:4436/udp/239.0.5.181:8208
-#EXTINF:-1  tvh-chnum="096",Panda
+#EXTINF:0  Panda
 http://192.168.1.149:4436/udp/239.0.0.171:8208
-#EXTINF:-1  tvh-chnum="098",Clan TVE
+#EXTINF:0  Clan TVE
 http://192.168.1.149:4436/udp/239.0.0.184:8208
-#EXTINF:-1  tvh-chnum="098",Boing HD
+#EXTINF:0  Boing HD
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
-#EXTINF:-1  tvh-chnum="046",M. LaLiga {DRM}
+#EXTINF:0  M. LaLiga {DRM}
 http://192.168.1.149:4436/udp/239.0.5.195:8208
-#EXTINF:-1  tvh-chnum="047",M. LaLiga 1
+#EXTINF:0  M. LaLiga 1
 http://192.168.1.149:4436/udp/239.0.0.194:8208
-#EXTINF:-1  tvh-chnum="048",M. LaLiga 2
+#EXTINF:0  M. LaLiga 2
 http://192.168.1.149:4436/udp/239.0.6.13:8208
-#EXTINF:-1  tvh-chnum="049",M. LaLiga 3
+#EXTINF:0  M. LaLiga 3
 http://192.168.1.149:4436/udp/239.0.0.196:8208
-#EXTINF:-1  tvh-chnum="050",M.Liga de Campeones {DRM}
+#EXTINF:0  M.Liga de Campeones {DRM}
 http://192.168.1.149:4436/udp/239.0.9.80:8208
-#EXTINF:-1  tvh-chnum="051",M.Liga de Campeones 1
+#EXTINF:0  M.Liga de Campeones 1
 http://192.168.1.149:4436/udp/239.0.9.81:8208
-#EXTINF:-1  tvh-chnum="052",M.Liga de Campeones 2
+#EXTINF:0  M.Liga de Campeones 2
 http://192.168.1.149:4436/udp/239.0.9.82:8208
-#EXTINF:-1  tvh-chnum="176",M. LaLiga 4
+#EXTINF:0  M. LaLiga 4
 http://192.168.1.149:4436/udp/239.0.0.197:8208
-#EXTINF:-1  tvh-chnum="177",M. LaLiga 5
+#EXTINF:0  M. LaLiga 5
 http://192.168.1.149:4436/udp/239.0.0.198:8208
-#EXTINF:-1  tvh-chnum="178",M. LaLiga 6
+#EXTINF:0  M. LaLiga 6
 http://192.168.1.149:4436/udp/239.0.0.195:8208
-#EXTINF:-1  tvh-chnum="179",M. LaLiga 7
+#EXTINF:0  M. LaLiga 7
 http://192.168.1.149:4436/udp/239.0.0.199:8208
-#EXTINF:-1  tvh-chnum="186",M.Liga de Campeones 3
+#EXTINF:0  M.Liga de Campeones 3
 http://192.168.1.149:4436/udp/239.0.9.83:8208
-#EXTINF:-1  tvh-chnum="187",M.Liga de Campeones 4
+#EXTINF:0  M.Liga de Campeones 4
 http://192.168.1.149:4436/udp/239.0.9.84:8208
-#EXTINF:-1 tvh-chnum="057",Movistar F1
+#EXTINF:0 Movistar F1
 http://192.168.1.149:4436/udp/239.0.5.246:8208
-#EXTINF:-1  tvh-chnum="011",Movistar Series
+#EXTINF:0  Movistar Series
 http://192.168.1.149:4436/udp/239.0.5.250:8208
-#EXTINF:-1  tvh-chnum="012",Movistar Seriesmanía
+#EXTINF:0  Movistar Seriesmanía
 http://192.168.1.149:4436/udp/239.0.5.83:8208
