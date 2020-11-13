@@ -1,5 +1,0 @@
-https://www.tdtchannels.com/epg/TV.xml
-http://tropical.jungle-team.online/epg/koala3.xml
-http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz
-6853623bf838a6be74c88550a816bd2a ->raul
-fe1e89a68bc810fbee13992eb452584f -> found
