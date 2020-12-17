@@ -31,9 +31,11 @@ http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:0,Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 #EXTINF:0,À Punt
-https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+http://192.168.1.149:4436/udp/239.0.5.175:8208
 #EXTINF:0,betevé
 http://192.168.1.149:4436/udp/239.0.0.110:8208
+#EXTINF:0,Canarias TV
+http://192.168.1.149:4436/udp/239.0.0.207:8208
 #EXTINF:0,Canal Sur 1
 http://192.168.1.149:4436/udp/239.0.5.192:8208
 #EXTINF:0,ETB 1
