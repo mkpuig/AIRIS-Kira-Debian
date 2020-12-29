@@ -1,0 +1,109 @@
+#EXTINF:-1,[000] Movistar+ HD
+rtp://@239.0.5.185:8208
+#EXTINF:-1,[001] La 1 HD
+rtp://@239.0.0.185:8208
+#EXTINF:-1,[002] La 2 HD
+rtp://@239.0.0.183:8208
+#EXTINF:-1,[003] Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:-1,[004] Cuatro HD
+rtp://@239.0.0.177:8208
+#EXTINF:-1,[005] Tele 5 HD
+rtp://@239.0.0.176:8208
+#EXTINF:-1,[006] La Sexta HD
+rtp://@239.0.0.187:8208
+#EXTINF:-1,[007] #0
+rtp://@239.0.0.108:8208
+#EXTINF:-1,[008] #Vamos
+rtp://@239.0.6.8:8208
+#EXTINF:-1,[011] La 1 CAT HD *
+rtp://@239.0.5.201:8208
+#EXTINF:-1,[012] La 2 CAT HD *
+rtp://@239.0.0.161:8208
+#EXTINF:-1,[009] TV3 HD *
+rtp://@239.0.5.186:8208
+#EXTINF:-1,[009] Canal Sur 1 HD *
+rtp://@239.0.5.192:8208
+#EXTINF:-1,[009] ETB 1 HD *
+rtp://@239.0.5.178:8208
+#EXTINF:-1,[010] ETB 2 HD *
+rtp://@239.0.5.179:8208
+#EXTINF:-1,[009] TeleMadrid HD *
+rtp://@239.0.0.181:8208
+#EXTINF:-1,[009] TVG HD *
+rtp://@239.0.5.182:8208
+#EXTINF:-1,[010] TVG 2 HD *
+rtp://@239.0.5.183:8208
+#EXTINF:-1,[001] La 1 HD Canarias *
+rtp://@239.0.0.160:8208
+#EXTINF:-1,[009] TV Canaria HD *
+rtp://@239.0.0.207:8208
+#EXTINF:-1,[009] À Punt HD *
+rtp://@239.0.5.175:8208
+#EXTINF:-1,[160] betevé *
+rtp://@239.0.0.110:8208
+#EXTINF:-1,[099] ETB 3 *
+rtp://@239.0.0.105:8208
+#EXTINF:-1,[009] IB3 *
+rtp://@239.0.0.56:8208
+#EXTINF:-1,[010] La Ocho Mediterráneo *
+rtp://@239.0.3.34:8208
+#EXTINF:-1,[026] Neox HD
+rtp://@239.0.5.207:8208
+#EXTINF:-1,[027] Atreseries HD
+rtp://@239.0.0.190:8208
+#EXTINF:-1,[028] Energy
+rtp://@239.0.0.59:8208
+#EXTINF:-1,[041] 13 TV
+rtp://@239.0.0.91:8208
+#EXTINF:-1,[042] Ten
+rtp://@239.0.0.34:8208
+#EXTINF:-1,[043] Paramount Network
+rtp://@239.0.0.90:8208
+#EXTINF:-1,[063] GOL HD
+rtp://@239.0.5.189:8208
+#EXTINF:-1,[064] Teledeporte HD
+rtp://@239.0.0.188:8208
+#EXTINF:-1,[068] Real Madrid TV HD
+rtp://@239.0.0.179:8208
+#EXTINF:-1,[077] Discovery Max
+rtp://@239.0.0.32:8208
+#EXTINF:-1,[082] DKISS
+rtp://@239.0.0.6:8208
+#EXTINF:-1,[083] Divinity
+rtp://@239.0.0.48:8208
+#EXTINF:-1,[084] Nova HD
+rtp://@239.0.5.209:8208
+#EXTINF:-1,[085] MEGA HD
+rtp://@239.0.5.210:8208
+#EXTINF:-1,[086] BeMad HD
+rtp://@239.0.0.182:8208
+#EXTINF:-1,[094] Nickelodeon HD
+rtp://@239.0.5.193:8208
+#EXTINF:-1,[096] Disney Channel HD
+rtp://@239.0.0.173:8208
+#EXTINF:-1,[098] Clan TVE HD
+rtp://@239.0.0.184:8208
+#EXTINF:-1,[097] Boing
+rtp://@239.0.0.66:8208
+#EXTINF:-1,[112] Canal 24 Horas
+rtp://@239.0.0.78:8208
+#EXTINF:-1,[124] El Toro TV
+rtp://@239.0.0.63:8208
+#EXTINF:-1,[125] Negocios TV
+rtp://@239.0.0.85:8208
+#EXTINF:-1,[150] Canal Sur Andalucía
+rtp://@239.0.0.1:8208
+#EXTINF:-1,[151] TVG Europa
+rtp://@239.0.3.37:8208
+#EXTINF:-1,[152] Canal Extremadura SAT
+rtp://@239.0.0.52:8208
+#EXTINF:-1,[153] TV3CAT
+rtp://@239.0.3.36:8208
+#EXTINF:-1,[154] ETB Sat
+rtp://@239.0.0.60:8208
+#EXTINF:-1,[155] Aragón TV Int
+rtp://@239.0.0.81:8208
+#EXTINF:-1,[166] Movistar Eventos HD
+rtp://@239.0.0.204:8208
+
