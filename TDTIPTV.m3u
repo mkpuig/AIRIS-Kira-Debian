@@ -82,6 +82,8 @@ rtp://@239.0.0.182:8208
 rtp://@239.0.5.193:8208
 #EXTINF:-1,[096] Disney Channel HD
 rtp://@239.0.0.173:8208
+#EXTINF:-1,[096] Disney JR
+rtp://@239.0.0.92:8208
 #EXTINF:-1,[098] Clan TVE HD
 rtp://@239.0.0.184:8208
 #EXTINF:-1,[097] Boing
@@ -106,4 +108,7 @@ rtp://@239.0.0.60:8208
 rtp://@239.0.0.81:8208
 #EXTINF:-1,[166] Movistar Eventos HD
 rtp://@239.0.0.204:8208
-
+#EXTINF:-1,[440] M. La Liga UHD
+rtp://@239.0.5.251:8208
+#EXTINF:-1,[900] TESTCARD1
+rtp://@239.0.0.204:8208
