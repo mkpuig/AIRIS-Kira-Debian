@@ -25,7 +25,7 @@ http://149.202.68.178:1935/live/peprecasens/manifest.mpd
 #EXTINF:-1,TEF
 https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 #EXTINF:-1,Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1,Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
 #EXTINF:-1,TV3
@@ -49,15 +49,13 @@ https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000.m3
 #EXTINF:-1,ETB Sat
 rtp://@239.0.0.60:8208
 #EXTINF:-1,ETB 1
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
 #EXTINF:-1,ETB 2
-rtp://@239.0.5.179:8208
-#EXTINF:-1,ETB 3
-rtp://@239.0.0.105:8208
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
 #EXTINF:-1,TeleMadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1,LaOtra
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8
 #EXTINF:-1,TVG Europa
 rtp://@239.0.3.37:8208
 #EXTINF:-1,TVG
