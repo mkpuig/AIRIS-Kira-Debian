@@ -25,11 +25,11 @@ http://149.202.68.178:1935/live/peprecasens/manifest.mpd
 #EXTINF:-1,TEF
 https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 #EXTINF:-1,Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
 #EXTINF:-1,Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
 #EXTINF:-1,TV3
-https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4126190.m3u8
+https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
 #EXTINF:-1,TV3CAT
 https://directes-tv-es.ccma.cat/es/ngrp:tv3_web/chunklist_b4128000.m3u8
 #EXTINF:-1,33
