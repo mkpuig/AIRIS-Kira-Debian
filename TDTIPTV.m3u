@@ -13,45 +13,45 @@ rtp://@239.0.0.187:8208
 #EXTINF:0,IB3 HD
 http://192.168.1.33:9890/live
 #EXTINF:-1,La 1 Catalunya
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@130182/index_1500_av-p.m3u8?sd=10&rebase=off
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
 #EXTINF:-1,La 2 Catalunya
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/index_1500_av-p.m3u8?sd=10&rebase=off
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/master.m3u8
 #EXTINF:-1,TV3
 rtp://@239.0.5.186:8208
 #EXTINF:-1,À Punt
-https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/profile_0/chunklist.m3u8
+http://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/profile_0/chunklist.m3u8
 #EXTINF:-1,Canal 4
 http://149.202.68.178:1935/live/peprecasens/manifest.mpd
 #EXTINF:-1,TEF
 https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 #EXTINF:-1,Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+http://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1,Bon Dia TV
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
+http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
 #EXTINF:-1,TV3
-https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
+http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
 #EXTINF:-1,TV3CAT
-https://directes-tv-es.ccma.cat/es/ngrp:tv3_web/chunklist_b4128000.m3u8
+http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/chunklist_b4128000.m3u8
 #EXTINF:-1,33
-https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b1296000.m3u8
+http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b4128000.m3u8
 #EXTINF:-1,Esport 3
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
+http://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
 #EXTINF:-1,324
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4126553.m3u8
+http://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4126553.m3u8
 #EXTINF:-1,Fibracat
-https://cdn-02.fibracat.cat/fibracattv/index.m3u8
+http://cdn-02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1,betevé
 rtp://@239.0.0.110:8208
 #EXTINF:-1,La Ocho Mediterráneo
 rtp://@239.0.3.34:8208
 #EXTINF:-1,Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000.m3u8
+http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000.m3u8
 #EXTINF:-1,ETB Sat
 rtp://@239.0.0.60:8208
 #EXTINF:-1,ETB 1
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
 #EXTINF:-1,ETB 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
 #EXTINF:-1,TeleMadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1,LaOtra
@@ -113,7 +113,7 @@ rtp://@239.0.0.66:8208
 #EXTINF:-1,Canal 24 Horas
 rtp://@239.0.0.78:8208
 #EXTINF:-1,Canal 24 Horas HD
-https://rtvelivestream.akamaized.net/24h_4000.m3u8
+http://rtvelivestream.akamaized.net/24h_4000.m3u8
 #EXTINF:-1,El Toro TV
 rtp://@239.0.0.63:8208
 #EXTINF:-1,Negocios TV
@@ -131,4 +131,5 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,CBS News
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,La 1 Balears
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385145/index_1500_av-p.m3u8?sd=10&rebase=off
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385145/master.m3u8
+
