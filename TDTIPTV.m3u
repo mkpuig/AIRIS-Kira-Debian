@@ -1,3 +1,5 @@
+#EXTM3U
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1,La 1
 rtp://@239.0.0.185:8208
 #EXTINF:-1,La 2
@@ -10,7 +12,7 @@ rtp://@239.0.0.177:8208
 rtp://@239.0.0.176:8208
 #EXTINF:-1,La Sexta
 rtp://@239.0.0.187:8208
-#EXTINF:0,IB3 HD
+#EXTINF:-1,IB3 HD
 http://192.168.1.33:9890/live
 #EXTINF:-1,La 1 Catalunya
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
