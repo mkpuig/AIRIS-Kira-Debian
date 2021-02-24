@@ -1,0 +1,138 @@
+#EXTM3U
+#EXTINF:-1,La 1
+http://192.168.1.149:4436/udp/239.0.0.185:8208
+#EXTINF:-1,La 2
+http://192.168.1.149:4436/udp/239.0.0.183:8208
+#EXTINF:-1,Antena 3
+http://192.168.1.149:4436/udp/239.0.0.186:8208
+#EXTINF:-1,Cuatro
+http://192.168.1.149:4436/udp/239.0.0.177:8208
+#EXTINF:-1,Telecinco
+http://192.168.1.149:4436/udp/239.0.0.176:8208
+#EXTINF:-1,La Sexta
+http://192.168.1.149:4436/udp/239.0.0.187:8208
+#EXTINF:-1,IB3 HD
+http://192.168.1.33:9890/live
+#EXTINF:-1,TV3
+http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,À Punt
+https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist.m3u8
+#EXTINF:-1,IB3 Sat
+https://www.youtube.com/watch?v=4BHQ8AJuSTA
+#EXTINF:-1,La 1 Catalunya
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
+#EXTINF:-1,La 2 Catalunya
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/master.m3u8
+#EXTINF:-1,TV3CAT
+http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,33
+http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1,Esport 3
+http://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1,Canal 4
+http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
+#EXTINF:-1,Bon Dia TV
+http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
+#EXTINF:-1,TEF
+https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
+#EXTINF:-1,Fibracat
+http://cdn-02.fibracat.cat/fibracattv/index.m3u8
+#EXTINF:-1,betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1,teve.cat
+https://www.tdtchannels.com/stream/tevecat.m3u8
+#EXTINF:-1,Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+#EXTINF:-1,ETB 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:-1,ETB 2
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:-1,TeleMadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,LaOtra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,CyL7 Castilla y Leon
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1,TVG Europa
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TV Canaria
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+#EXTINF:-1,Canal Extremadura SAT
+http://cdnlive.shooowit.info/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1,Ibiza Global TV
+http://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1,Sonus TV
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1,Urban Revolution
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+#EXTINF:-1,Aragón TV Int
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1,Neox
+http://192.168.1.149:4436/udp/239.0.5.207:8208
+#EXTINF:-1,Atreseries
+http://192.168.1.149:4436/udp/239.0.0.190:8208
+#EXTINF:-1,Energy
+http://192.168.1.149:4436/udp/239.0.0.59:8208
+#EXTINF:-1,13 TV
+http://192.168.1.149:4436/udp/239.0.0.91:8208
+#EXTINF:-1,Ten
+http://192.168.1.149:4436/udp/239.0.0.34:8208
+#EXTINF:-1,Paramount Network
+http://192.168.1.149:4436/udp/239.0.0.90:8208
+#EXTINF:-1,GOL
+http://192.168.1.149:4436/udp/239.0.5.189:8208
+#EXTINF:-1,Teledeporte
+http://192.168.1.149:4436/udp/239.0.0.188:8208
+#EXTINF:-1,Real Madrid TV
+http://192.168.1.149:4436/udp/239.0.0.179:8208
+#EXTINF:-1,Discovery Max
+http://192.168.1.149:4436/udp/239.0.0.32:8208
+#EXTINF:-1,DKISS
+http://192.168.1.149:4436/udp/239.0.0.6:8208
+#EXTINF:-1,Divinity
+http://192.168.1.149:4436/udp/239.0.0.48:8208
+#EXTINF:-1,Nova
+http://192.168.1.149:4436/udp/239.0.5.209:8208
+#EXTINF:-1,MEGA
+http://192.168.1.149:4436/udp/239.0.5.210:8208
+#EXTINF:-1,BeMad
+http://192.168.1.149:4436/udp/239.0.0.182:8208
+#EXTINF:-1,Nickelodeon
+http://192.168.1.149:4436/udp/239.0.5.193:8208
+#EXTINF:-1,Disney Channel
+http://192.168.1.149:4436/udp/239.0.0.173:8208
+#EXTINF:-1,Disney JR
+http://192.168.1.149:4436/udp/239.0.0.92:8208
+#EXTINF:-1,Clan TVE
+http://192.168.1.149:4436/udp/239.0.0.184:8208
+#EXTINF:-1,Boing
+http://192.168.1.149:4436/udp/239.0.0.66:8208
+#EXTINF:-1,324
+http://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,Canal 24 Horas HD
+http://rtvelivestream.akamaized.net/24h_4000.m3u8
+#EXTINF:-1,Hispan TV
+https://live1.presstv.com/live/hispan.m3u8
+#EXTINF:-1,Canal Parlamento
+https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1,El Toro TV
+http://192.168.1.149:4436/udp/239.0.0.63:8208
+#EXTINF:-1,Negocios TV
+https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+#EXTINF:-1,RT
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:-1,DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1,Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,RTVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:-1,La 1 Balears
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385145/master.m3u8
+
