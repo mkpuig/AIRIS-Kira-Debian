@@ -30,6 +30,8 @@ http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
 http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist.m3u8
 #EXTINF:-1,Esport 3
 http://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1,Cameres
+https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
 #EXTINF:-1,Canal 4
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1,Bon Dia TV
