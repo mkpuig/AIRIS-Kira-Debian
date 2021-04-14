@@ -12,7 +12,7 @@ http://192.168.1.149:4436/udp/239.0.0.177:8208
 http://192.168.1.149:4436/udp/239.0.0.176:8208
 #EXTINF:-1,La Sexta
 http://192.168.1.149:4436/udp/239.0.0.187:8208
-#EXTINF:-1,IB3 HD
+#EXTINF:-1,IB3
 http://192.168.1.33:9890/live
 #EXTINF:-1,TV3
 http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
@@ -21,8 +21,6 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:-1,La 1 Catalunya
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
 #EXTINF:-1,La 2 Catalunya
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/master.m3u8
-#EXTINF:-1,La 2 *Catalunya
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8
 #EXTINF:-1,TV3CAT
 http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/chunklist_b4128000.m3u8
@@ -31,7 +29,7 @@ http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b4128000.m3u8
 #EXTINF:-1,Esport 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
 #EXTINF:-1,Cameres
-https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4125284.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4126319.m3u8
 #EXTINF:-1,Canal 4
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1,Bon Dia TV
@@ -58,7 +56,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1,La8 Castilla y Leon
 https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-#EXTINF:-1,CyL7 Castilla la Mancha
+#EXTINF:-1,CMM Castilla la Mancha
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
 #EXTINF:-1,TVG Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
@@ -67,9 +65,7 @@ https://amodino-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TV Canaria
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 #EXTINF:-1,Canal Extremadura SAT
-http://cdnlive.shooowit.info/canalextremaduralive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1,HQM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,Ibiza Global TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8
 #EXTINF:-1,Sonus TV
@@ -108,8 +104,6 @@ http://192.168.1.149:4436/udp/239.0.5.209:8208
 http://192.168.1.149:4436/udp/239.0.5.210:8208
 #EXTINF:-1,BeMad
 http://192.168.1.149:4436/udp/239.0.0.182:8208
-#EXTINF:-1,Nickelodeon
-http://192.168.1.149:4436/udp/239.0.5.193:8208
 #EXTINF:-1,Disney Channel
 http://192.168.1.149:4436/udp/239.0.0.173:8208
 #EXTINF:-1,Disney JR
@@ -122,21 +116,22 @@ http://192.168.1.149:4436/udp/239.0.0.66:8208
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4126049.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://rtvelivestream.akamaized.net/24h_4000.m3u8
-#EXTINF:-1,Hispan TV
 #EXTINF:-1,Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
-#EXTINF:-1,Canal Parlamento 6
+#EXTINF:-1,Canal Parlamento SRD
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1,El Toro TV
-http://192.168.1.149:4436/udp/239.0.0.63:8208
+rtp://@239.0.0.63:8208
 #EXTINF:-1,Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
-#EXTINF:-1,CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,Hispan TV
+https://live1.presstv.com/live/hispan_360p/index.m3u8
 #EXTINF:-1,RT
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1,DW
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1,ABC News
@@ -147,4 +142,3 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1409752803_b1500000.m3u8
 #EXTINF:-1,La 1 Balears
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385145/master.m3u8
-
