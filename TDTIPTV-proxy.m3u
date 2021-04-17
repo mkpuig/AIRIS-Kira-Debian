@@ -121,7 +121,7 @@ https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
 #EXTINF:-1,Canal Parlamento SRD
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1,El Toro TV
-rtp://@239.0.0.63:8208
+http://192.168.1.149:4436/udp/239.0.0.63:8208
 #EXTINF:-1,Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 #EXTINF:-1,Hispan TV
@@ -142,3 +142,4 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1409752803_b1500000.m3u8
 #EXTINF:-1,La 1 Balears
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385145/master.m3u8
+
