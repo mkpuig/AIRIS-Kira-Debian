@@ -47,7 +47,7 @@ https://rtvelivestream.akamaized.net/24h_main_1080.m3u8
 #EXTINF:-1,Cameres
 https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4126319.m3u8
 #EXTINF:-1,Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
 #EXTINF:-1,ETB 1
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1,ETB 2
