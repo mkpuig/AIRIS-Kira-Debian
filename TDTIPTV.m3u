@@ -47,7 +47,7 @@ https://rtvelivestream.akamaized.net/24h_main_1080.m3u8
 #EXTINF:-1,Cameres
 https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4126319.m3u8
 #EXTINF:-1,Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 #EXTINF:-1,ETB 1
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1,ETB 2
@@ -69,7 +69,7 @@ https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TVG 2
 https://amodino-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TV Canaria
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+https://rtvc-live1.flumotion.com/rtvc/live1_high/chunks.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,Canal Extremadura SAT
