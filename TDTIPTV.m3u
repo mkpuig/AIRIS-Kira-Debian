@@ -18,52 +18,60 @@ http://192.168.1.33:9890/live
 http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
 #EXTINF:-1,À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1,Bon Dia TV
+http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
 #EXTINF:-1,La 1 Catalunya
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
+https://rtvelivestream.akamaized.net/la1_cat_main_1080.m3u8
 #EXTINF:-1,La 2 Catalunya
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8
+https://rtvelivestream.akamaized.net/la2_cat_main_1080.m3u8
 #EXTINF:-1,TV3CAT
 http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/chunklist_b4128000.m3u8
+#EXTINF:-1,Canal 4
+http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1,33
 http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b4128000.m3u8
 #EXTINF:-1,Esport 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
-#EXTINF:-1,Cameres
-https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4126319.m3u8
-#EXTINF:-1,Canal 4
-http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
-#EXTINF:-1,Bon Dia TV
-http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
-#EXTINF:-1,TEF
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Illes Balears" tvg-name="TEF",TEF
 https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
-#EXTINF:-1,Fibracat
-http://cdn-02.fibracat.cat/fibracattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="Cataluña" tvg-name="Fibracat TV",Fibracat TV
+https://cdn02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1,betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1,teve.cat
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teve.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="teve.cat",teve.cat
 https://www.tdtchannels.com/stream/tevecat.m3u8
+#EXTINF:-1,324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4126049.m3u8
+#EXTINF:-1,Canal 24 Horas HD
+https://rtvelivestream.akamaized.net/24h_main_1080.m3u8
+#EXTINF:-1,Cameres
+https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4126319.m3u8
 #EXTINF:-1,Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
 #EXTINF:-1,ETB 1
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1,ETB 2
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1,TeleMadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1,LaOtra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1 tvg-id="NaTV.TV" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="C. Foral de Navarra" tvg-name="Navarra TV",Navarra TV HD
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="C. de Madrid" tvg-name="LaOtra",LaOtra
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:-1,CyL7 Castilla y Leon
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
-#EXTINF:-1,La8 Castilla y Leon
+#EXTINF:-1,La 8 Castilla y Leon
 https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-#EXTINF:-1,CMM Castilla la Mancha
+#EXTINF:-1,CMM
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
 #EXTINF:-1,TVG Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TVG 2
 https://amodino-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TV Canaria
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+https://rtvc-live1.flumotion.com/rtvc/live1_high/chunks.m3u8
+#EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="7 R. de Murcia",7 R. de Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,Canal Extremadura SAT
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,Ibiza Global TV
@@ -112,10 +120,6 @@ rtp://@239.0.0.92:8208
 rtp://@239.0.0.184:8208
 #EXTINF:-1,Boing
 rtp://@239.0.0.66:8208
-#EXTINF:-1,324
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4126049.m3u8
-#EXTINF:-1,Canal 24 Horas HD
-http://rtvelivestream.akamaized.net/24h_4000.m3u8
 #EXTINF:-1,Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
 #EXTINF:-1,Canal Parlamento SRD
