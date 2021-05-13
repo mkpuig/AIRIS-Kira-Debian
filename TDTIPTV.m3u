@@ -13,6 +13,8 @@ rtp://@239.0.0.176:8208
 #EXTINF:-1,La Sexta
 rtp://@239.0.0.187:8208
 #EXTINF:-1,IB3
+rtp://@239.0.0.189:8208
+#EXTINF:-1,IB3 HD
 http://192.168.1.33:9890/live
 #EXTINF:-1,TV3
 http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
@@ -41,11 +43,11 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n644
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teve.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="teve.cat",teve.cat
 https://www.tdtchannels.com/stream/tevecat.m3u8
 #EXTINF:-1,324
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4126049.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4126162.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 https://rtvelivestream.akamaized.net/24h_main_1080.m3u8
 #EXTINF:-1,Cameres
-https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4126319.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/chunklist_b4125723.m3u8
 #EXTINF:-1,Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/chunklist_b2200000.m3u8
 #EXTINF:-1,ETB 1
