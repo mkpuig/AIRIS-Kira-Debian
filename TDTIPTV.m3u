@@ -13,8 +13,6 @@ rtp://@239.0.0.176:8208
 #EXTINF:-1,La Sexta
 rtp://@239.0.0.187:8208
 #EXTINF:-1,IB3
-rtp://@239.0.0.189:8208
-#EXTINF:-1,IB3 HD
 http://192.168.1.33:9890/live
 #EXTINF:-1,TV3
 http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
