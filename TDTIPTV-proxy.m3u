@@ -32,6 +32,8 @@ http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b4128000.m3u8
 #EXTINF:-1,Esport 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
+#EXTINF:-1,Fibwi live
+http://109.232.71.249/fibwiLIVE_movil/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Illes Balears" tvg-name="TEF",TEF
 https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="Cataluña" tvg-name="Fibracat TV",Fibracat TV
