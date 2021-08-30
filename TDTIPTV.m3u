@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml"
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1,La 1
 rtp://@239.0.0.185:8208
@@ -15,25 +16,23 @@ rtp://@239.0.0.187:8208
 #EXTINF:-1,IB3
 http://192.168.1.33:9890/live
 #EXTINF:-1,TV3
-http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/chunklist_b4128000.m3u8
+http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1,À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1,Bon Dia TV
-http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b4128000.m3u8
+http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8b4128000.m3u8
 #EXTINF:-1,La 1 Catalunya
-https://rtvelivestreamv3.akamaized.net/la1_cat_main_1080.m3u8
+https://rtvelivestreamv3.akamaized.net/la1_cat_main.m3u8
 #EXTINF:-1,La 2 Catalunya
-https://rtvelivestreamv3.akamaized.net/la2_cat_main_1080.m3u8
+https://rtvelivestreamv3.akamaized.net/la2_cat_main.m3u8
 #EXTINF:-1,TV3CAT
-http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/chunklist_b4128000.m3u8
+http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1,Canal 4
-http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
-#EXTINF:-1,33
-http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b4128000.m3u8
-#EXTINF:-1,Esport 3
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b4128000.m3u8
-#EXTINF:-1,Fibwi live
 http://109.232.71.249/fibwiLIVE_movil/index.m3u8
+#EXTINF:-1,33
+http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1,Esport 3
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Illes Balears" tvg-name="TEF",TEF
 https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="Cataluña" tvg-name="Fibracat TV",Fibracat TV
@@ -45,7 +44,7 @@ https://www.tdtchannels.com/stream/tevecat.m3u8
 #EXTINF:-1,324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1,Canal 24 Horas HD
-https://rtvelivestreamv3.akamaized.net/24h_main_1080.m3u8
+https://rtvelivestreamv3.akamaized.net/24h_cat_main.m3u8
 #EXTINF:-1,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Cameres
@@ -63,9 +62,9 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="C. de Madrid" tvg-name="LaOtra",LaOtra
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:-1,CyL7 Castilla y Leon
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1,La 8 Castilla y Leon
-https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
+https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1,CMM
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
 #EXTINF:-1,TVG Europa
@@ -77,7 +76,7 @@ https://rtvc-live1.flumotion.com/rtvc/live1_high/chunks.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,Canal Extremadura SAT
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000.m3u8
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1,Ibiza Global TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8
 #EXTINF:-1,Sonus TV
