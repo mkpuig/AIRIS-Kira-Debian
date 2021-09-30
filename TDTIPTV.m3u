@@ -21,14 +21,10 @@ http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1,Bon Dia TV
 http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8b4128000.m3u8
-#EXTINF:-1,La 1 Catalunya
-https://rtvelivestreamv3.akamaized.net/la1_cat.m3u8
 #EXTINF:-1,La 2 Catalunya
-https://rtvelivestreamv3.akamaized.net/la2_cat.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8
 #EXTINF:-1,TV3CAT
 http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1,Canal 4
-http://109.232.71.249/fibwiLIVE_movil/index.m3u8
 #EXTINF:-1,33
 http://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist.m3u8
 #EXTINF:-1,Esport 3
