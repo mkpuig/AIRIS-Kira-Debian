@@ -22,9 +22,9 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:-1,Bon Dia TV
 http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8b4128000.m3u8
 #EXTINF:-1,La 1 Catalunya
-https://rtvelivestreamv3.akamaized.net/la1_cat_main.m3u8
+https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1,La 2 Catalunya
-https://rtvelivestreamv3.akamaized.net/la2_cat_main.m3u8
+https://rtvelivestreamv3.akamaized.net/cat/la2_cat_main_dvr.m3u8
 #EXTINF:-1,TV3CAT
 http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1,Canal 4
@@ -39,12 +39,14 @@ https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 https://cdn02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1,betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1,8 TV
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teve.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="teve.cat",teve.cat
 https://www.tdtchannels.com/stream/tevecat.m3u8
 #EXTINF:-1,324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1,Canal 24 Horas HD
-https://rtvelivestreamv3.akamaized.net/24h_main.m3u8
+https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Cameres
@@ -69,10 +71,10 @@ https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/p
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
 #EXTINF:-1,TVG Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TVG 2
-https://amodino-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TV Canaria
-https://rtvc-live1.flumotion.com/rtvc/live1_high/chunks.m3u8
+https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTINF:-1,Volcan La Palma
+https://rtvc-oca1.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,Canal Extremadura SAT
