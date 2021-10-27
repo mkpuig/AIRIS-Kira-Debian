@@ -72,7 +72,7 @@ https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TV Canaria
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
 #EXTINF:-1,Volcan La Palma
-https://rtvc-oca1.flumotion.com/playlist.m3u8
+https://rtvc-oca1.flumotion.com/rtvc/oca1_high/chunks.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,Canal Extremadura SAT
