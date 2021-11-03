@@ -71,6 +71,8 @@ https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5
 https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,TV Canaria
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVG 2
+https://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,Volcan La Palma
 https://rtvc-oca1.flumotion.com/rtvc/oca1_high/chunks.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="7 R. de Murcia",7 R. de Murcia
@@ -85,6 +87,8 @@ http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:-1,Aragón TV Int
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1,Aragón Deportes
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
 #EXTINF:-1,Neox
 http://192.168.1.149:4436/udp/239.0.5.207:8208
 #EXTINF:-1,Atreseries
@@ -131,20 +135,38 @@ https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 http://192.168.1.149:4436/udp/239.0.0.63:8208
 #EXTINF:-1,Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+#EXTINF:-1,Rai News
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,Hispan TV
 https://live1.presstv.com/live/hispan_360p/index.m3u8
 #EXTINF:-1,RT
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1,DW
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1,GB News UK
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1,CBS News
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,Bloomberg Europe
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,NHK Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1,India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1,NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NASA MEDIA
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NASA ISS
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RTVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1409752803_b1500000.m3u8
 #EXTINF:-1,La 1 Balears
