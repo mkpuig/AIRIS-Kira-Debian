@@ -22,9 +22,9 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:-1,Bon Dia TV
 http://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 #EXTINF:-1,La 1 Catalunya
-https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1,La 2 Catalunya
-https://rtvelivestreamv3.akamaized.net/cat/la2_cat_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1,TV3CAT
 http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1,33
@@ -169,6 +169,10 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RTVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1409752803_b1500000.m3u8
+#EXTINF:-1,La 1 Catalunya(2)
+https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr.m3u8
+#EXTINF:-1,La 2 Catalunya(2)
+https://rtvelivestreamv3.akamaized.net/cat/la2_cat_main_dvr.m3u8
 #EXTINF:-1,La 1 Balears
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385145/master.m3u8
 
