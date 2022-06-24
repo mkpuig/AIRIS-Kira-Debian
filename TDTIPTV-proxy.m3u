@@ -28,7 +28,7 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1,Super3
 https://directes-tv-cat.ccma.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1,Esport3
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
+https://directes-tv-es.ccma.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Illes Balears" tvg-name="TEF",TEF
 https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="Cataluña" tvg-name="Fibracat TV",Fibracat TV
