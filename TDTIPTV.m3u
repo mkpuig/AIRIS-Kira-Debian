@@ -16,7 +16,7 @@ rtp://@239.0.0.187:8208
 #EXTINF:-1,IB3
 http://192.168.1.33:9890/live
 #EXTINF:-1,TV3
-http://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
+https://directes-tv-cat.ccma.cat/live-content/tv3-hls/master.m3u8
 #EXTINF:-1,À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1,Bon Dia TV
