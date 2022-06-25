@@ -45,6 +45,8 @@ https://www.tdtchannels.com/stream/tevecat.m3u8
 https://directes-tv-cat.ccma.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Int. Europa" tvg-name="ATV Andorra",ATV Andorra
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Cameres
