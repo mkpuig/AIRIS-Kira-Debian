@@ -35,7 +35,7 @@ https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 https://cdn02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1,betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teve.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="teve.cat",teve.cat
+#EXTINF:-1,CANAL 4
 https://www.tdtchannels.com/stream/tevecat.m3u8
 #EXTINF:-1,324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
