@@ -27,6 +27,32 @@ rtp://@239.0.0.24:8208
 rtp://@239.0.0.61:8208
 #EXTINF:0,24 Horas
 rtp://@239.0.5.143:8208
+#EXTINF:0,TV Galicia HD
+rtp://@239.0.5.182:8208
+#EXTINF:0,TV Galicia 2 HD
+rtp://@239.0.5.183:8208
+#EXTINF:0,Aragón TV
+rtp://@239.0.5.142:8208
+#EXTINF:0,CMM
+rtp://@239.0.5.150:8208
+#EXTINF:0,ETB1
+rtp://@239.0.5.178:8208
+#EXTINF:0,ETB2
+rtp://@239.0.5.179:8208
+#EXTINF:0,Navarra TV HD
+rtp://@239.0.5.85:8208
+#EXTINF:0,Telemadrid HD
+rtp://@239.0.5.63:8208
+#EXTINF:0,LaOtra SD
+rtp://@239.0.0.26:8208
+#EXTINF:0,CanalSur
+rtp://@239.0.5.192:8208
+#EXTINF:0,CanalSur 2
+rtp://@239.0.0.49:8208
+#EXTINF:0,Extremadura SAT
+rtp://@239.0.0.52:8208
+#EXTINF:0,TV Canaria HD
+rtp://@239.0.0.207:8208
 
 #EXTINF:0,La 1 HD
 rtp://@239.0.5.203:8208
@@ -89,8 +115,7 @@ rtp://@239.0.0.23:8208
 
 #EXTINF:0,Telemadrid Int SD 
 rtp://@239.0.0.25:8208
-#EXTINF:0,LaOtra SD
-rtp://@239.0.0.26:8208
+
 #EXTINF:0,CanalCocina SD
 rtp://@239.0.0.27:8208
 #EXTINF:0,euronews SD
@@ -135,12 +160,10 @@ rtp://@239.0.0.46:8208
 rtp://@239.0.0.47:8208
 #EXTINF:0,divinity
 rtp://@239.0.0.48:8208
-#EXTINF:0,CanalSur 2 SD
-rtp://@239.0.0.49:8208
+
 #EXTINF:0,Andalucia Global SD
 rtp://@239.0.0.50:8208
-#EXTINF:0,Extremadura SAT
-rtp://@239.0.0.52:8208
+
 #EXTINF:0,Galicia SD
 rtp://@239.0.0.53:8208
 #EXTINF:0,TV Canaria SD
@@ -345,8 +368,7 @@ rtp://@239.0.0.203:8208
 rtp://@239.0.0.204:8208
 #EXTINF:0,0-206
 rtp://@239.0.0.206:8208
-#EXTINF:0,TV Canaria HD
-rtp://@239.0.0.207:8208
+
 #EXTINF:0,MTV
 rtp://@239.0.0.211:8208
 #EXTINF:0,Navarra TV SD
@@ -539,8 +561,7 @@ rtp://@239.0.5.60:8208
 rtp://@239.0.5.61:8208
 #EXTINF:0,XTRM HD
 rtp://@239.0.5.62:8208
-#EXTINF:0,Telemadrid HD
-rtp://@239.0.5.63:8208
+
 #EXTINF:0,LaLiga SportsTV HD
 rtp://@239.0.5.65:8208
 #EXTINF:0,DAZN LaLiga 1 HD
@@ -581,8 +602,7 @@ rtp://@239.0.5.82:8208
 rtp://@239.0.5.83:8208
 #EXTINF:0,5-84
 rtp://@239.0.5.84:8208
-#EXTINF:0,Navarra TV HD
-rtp://@239.0.5.85:8208
+
 #EXTINF:0,WBTV HD
 rtp://@239.0.5.87:8208
 #EXTINF:0,TCM HD
@@ -633,30 +653,22 @@ rtp://@239.0.5.139:8208
 rtp://@239.0.5.140:8208
 #EXTINF:0,5-141
 rtp://@239.0.5.141:8208
-#EXTINF:0,Aragón HD
-rtp://@239.0.5.142:8208
+
 
 
 #EXTINF:0,Caza y Pesca HD
 rtp://@239.0.5.149:8208
-#EXTINF:0,cmm HD
-rtp://@239.0.5.150:8208
+
 #EXTINF:0,5-176
 rtp://@239.0.5.176:8208
 #EXTINF:0,5-177
 rtp://@239.0.5.177:8208
-#EXTINF:0,ETB1 HD
-rtp://@239.0.5.178:8208
-#EXTINF:0,ETB2 HD
-rtp://@239.0.5.179:8208
+
 #EXTINF:0,Dreamworks HD
 rtp://@239.0.5.180:8208
 #EXTINF:0,Disney Jr HD
 rtp://@239.0.5.181:8208
-#EXTINF:0,TV Galicia HD
-rtp://@239.0.5.182:8208
-#EXTINF:0,TV Galicia 2 HD
-rtp://@239.0.5.183:8208
+
 #EXTINF:0,Portada HD
 rtp://@239.0.5.185:8208
 
@@ -668,8 +680,7 @@ rtp://@239.0.5.189:8208
 rtp://@239.0.5.190:8208
 #EXTINF:0,DAZN 2 HD
 rtp://@239.0.5.191:8208
-#EXTINF:0,Canal Sur 1 HD
-rtp://@239.0.5.192:8208
+
 #EXTINF:0,Vacaciones HD
 rtp://@239.0.5.193:8208
 #EXTINF:0,5-194
