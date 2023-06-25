@@ -21,7 +21,7 @@ rtp://@239.0.5.186:8208
 rtp://@239.0.5.175:8208
 #EXTINF:0,Esport 3
 rtp://@239.0.0.51:8208
-#EXTINF:0,Super3
+#EXTINF:0,C33
 rtp://@239.0.0.24:8208
 #EXTINF:0,324
 rtp://@239.0.0.61:8208
@@ -35,46 +35,196 @@ rtp://@239.0.5.183:8208
 rtp://@239.0.5.142:8208
 #EXTINF:0,CMM
 rtp://@239.0.5.150:8208
-#EXTINF:0,ETB1
+#EXTINF:0,ETB 1
 rtp://@239.0.5.178:8208
-#EXTINF:0,ETB2
+#EXTINF:0,ETB 2
 rtp://@239.0.5.179:8208
-#EXTINF:0,Navarra TV HD
+#EXTINF:0,ETB 3
+rtp://@239.0.0.105:8208
+#EXTINF:0,Navarra TV
 rtp://@239.0.5.85:8208
-#EXTINF:0,Telemadrid HD
+#EXTINF:0,Telemadrid
 rtp://@239.0.5.63:8208
 #EXTINF:0,LaOtra SD
 rtp://@239.0.0.26:8208
-#EXTINF:0,CanalSur
+#EXTINF:0,Canal Sur
 rtp://@239.0.5.192:8208
-#EXTINF:0,CanalSur 2
+#EXTINF:0,Canal Sur 2
 rtp://@239.0.0.49:8208
 #EXTINF:0,Extremadura SAT
 rtp://@239.0.0.52:8208
-#EXTINF:0,TV Canaria HD
+#EXTINF:0,TV Canaria
 rtp://@239.0.0.207:8208
-#EXTINF:0,CyL 7 HD
+#EXTINF:0,CyL 7
 rtp://@239.0.5.80:8208
-#EXTINF:0,TPA7 SD
+#EXTINF:0,TPA7
 rtp://@239.0.0.86:8208
-#EXTINF:0,7 Murcia SD
+#EXTINF:0,7 Murcia
 rtp://@239.0.0.87:8208
-
-#EXTINF:0,La 1 HD
+#EXTINF:0,La 1
 rtp://@239.0.5.203:8208
-#EXTINF:0,La 1 HD
+#EXTINF:0,La 1
 rtp://@239.0.5.144:8208
-#EXTINF:0,La 1 HD
+#EXTINF:0,La 1
 rtp://@239.0.5.145:8208
-#EXTINF:0,La 1 HD
+#EXTINF:0,La 1
 rtp://@239.0.5.146:8208
-#EXTINF:0,La 1 HD
+#EXTINF:0,La 1
 rtp://@239.0.5.147:8208
-#EXTINF:0,La 1 HD
+#EXTINF:0,La 1 Canarias
+rtp://@239.0.0.160:8208
+#EXTINF:0,La 1
 rtp://@239.0.0.185:8208
-#EXTINF:0,La 2 HD
+#EXTINF:0,La 2
 rtp://@239.0.0.183:8208
-#EXTINF:0,CanalSur Int SD
+#EXTINF:0,Portada HD
+rtp://@239.0.5.110:8208
+#EXTINF:0,Telemadrid HD
+rtp://@239.0.0.181:8208
+#EXTINF:0,Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:0,Telecinco HD
+rtp://@239.0.5.59:8208
+#EXTINF:0,decasa HD
+rtp://@239.0.5.60:8208
+#EXTINF:0,Break HD
+rtp://@239.0.5.61:8208
+#EXTINF:0,XTRM HD
+rtp://@239.0.5.62:8208
+#EXTINF:0,LaLiga SportsTV HD
+rtp://@239.0.5.65:8208
+#EXTINF:0,DAZN LaLiga 1 HD
+rtp://@239.0.5.66:8208
+#EXTINF:0,DAZN LaLiga 2 HD
+rtp://@239.0.5.67:8208
+#EXTINF:0,Liga de Campeones HD
+rtp://@239.0.5.70:8208
+#EXTINF:0,COSMO HD
+rtp://@239.0.5.71:8208
+#EXTINF:0,SUNDANCE HD
+rtp://@239.0.5.72:8208
+#EXTINF:0,Ellas #V HD
+rtp://@239.0.5.73:8208
+#EXTINF:0,Calle 13 HD
+rtp://@239.0.5.74:8208
+#EXTINF:0,SYFY HD
+rtp://@239.0.5.75:8208
+#EXTINF:0,HOLLYWOOD HD
+rtp://@239.0.5.76:8208
+#EXTINF:0,Discovery HD
+rtp://@239.0.5.77:8208
+#EXTINF:0,National Geographic HD
+rtp://@239.0.5.78:8208
+#EXTINF:0,AXN Movies HD
+rtp://@239.0.5.79:8208
+#EXTINF:0,Odisea HD
+rtp://@239.0.5.82:8208
+#EXTINF:0,Series HD
+rtp://@239.0.5.83:8208
+#EXTINF:0,WBTV HD
+rtp://@239.0.5.87:8208
+#EXTINF:0,TCM HD
+rtp://@239.0.5.89:8208
+#EXTINF:0,Eurosport2 HD
+rtp://@239.0.5.105:8208
+#EXTINF:0,Cine Ñ HD
+rtp://@239.0.5.109:8208
+#EXTINF:0,Estrenos HD
+rtp://@239.0.5.111:8208
+#EXTINF:0,Clásicos HD
+rtp://@239.0.5.112:8208
+#EXTINF:0,Acción HD
+rtp://@239.0.5.113:8208
+#EXTINF:0,Comedia HD
+rtp://@239.0.5.114:8208
+#EXTINF:0,Drama HD
+rtp://@239.0.5.115:8208
+#EXTINF:0,Estrenos 2 HD
+rtp://@239.0.5.135:8208
+#EXTINF:0,La Resistencia HD
+rtp://@239.0.5.140:8208
+#EXTINF:0,Caza y Pesca HD
+rtp://@239.0.5.149:8208
+#EXTINF:0,Dreamworks HD
+rtp://@239.0.5.180:8208
+#EXTINF:0,Disney Jr HD
+rtp://@239.0.5.181:8208
+#EXTINF:0,Iberalia HD
+rtp://@239.0.5.188:8208
+#EXTINF:0,GOL Play HD
+rtp://@239.0.5.189:8208
+#EXTINF:0,DAZN 1 HD
+rtp://@239.0.5.190:8208
+#EXTINF:0,DAZN 2 HD
+rtp://@239.0.5.191:8208
+#EXTINF:0,DAZN 3 HD
+rtp://@239.0.0.162:8208
+#EXTINF:0,DAZN 4 HD
+rtp://@239.0.0.163:8208
+#EXTINF:0,Portada HD
+rtp://@239.0.0.164:8208
+#EXTINF:0,Historia HD
+rtp://@239.0.0.166:8208
+#EXTINF:0,Vacaciones HD
+rtp://@239.0.5.193:8208
+#EXTINF:0,LaLiga TV HD
+rtp://@239.0.5.195:8208
+#EXTINF:0,nickelodeon HD
+rtp://@239.0.5.204:8208
+#EXTINF:0,neox HD
+rtp://@239.0.5.207:8208
+#EXTINF:0,Fest HD
+rtp://@239.0.5.208:8208
+#EXTINF:0,nova HD
+rtp://@239.0.5.209:8208
+#EXTINF:0,MEGA HD
+rtp://@239.0.5.210:8208
+#EXTINF:0,DAZN F1 HD
+rtp://@239.0.5.230:8208
+#EXTINF:0,DAZN F1 HD
+rtp://@239.0.5.246:8208
+#EXTINF:0,Deportes HD
+rtp://@239.0.5.248:8208
+#EXTINF:0,Golf HD
+rtp://@239.0.5.249:8208
+#EXTINF:0,Series 2 HD
+rtp://@239.0.5.250:8208
+#EXTINF:0,#Vamos HD
+rtp://@239.0.6.14:8208
+#EXTINF:0,Caza y pesca HD
+rtp://@239.0.6.54:8208
+#EXTINF:0,Mezzo live HD
+rtp://@239.0.6.55:8208
+#EXTINF:0,Eurosport 4K
+rtp://@239.0.7.6:8208
+#EXTINF:0,Barça TV HD
+rtp://@239.0.5.199:8208
+#EXTINF:0,ElToro HD
+rtp://@239.0.0.168:8208
+#EXTINF:0,Cocina HD
+rtp://@239.0.0.169:8208
+#EXTINF:0,EnFamilia HD
+rtp://@239.0.0.171:8208
+#EXTINF:0,Disney Channel HD
+rtp://@239.0.0.173:8208
+#EXTINF:0,Comedy Central HD
+rtp://@239.0.0.174:8208
+#EXTINF:0,Ubeat HD
+rtp://@239.0.0.178:8208
+#EXTINF:0,Real MAdrid HD
+rtp://@239.0.0.179:8208
+#EXTINF:0,Multideporte HD
+rtp://@239.0.0.180:8208
+#EXTINF:0,BeMad HD
+rtp://@239.0.0.182:8208
+#EXTINF:0,Clan HD
+rtp://@239.0.0.184:8208
+#EXTINF:0,TDP HD
+rtp://@239.0.0.188:8208
+#EXTINF:0,Historia HD
+rtp://@239.0.0.190:8208
+#EXTINF:0,Golf 2 HD
+rtp://@239.0.0.191:8208#EXTINF:0,CanalSur Int SD
 rtp://@239.0.0.1:8208
 #EXTINF:0,La 2 SD
 rtp://@239.0.0.2:8208
@@ -118,10 +268,8 @@ rtp://@239.0.0.21:8208
 rtp://@239.0.0.22:8208
 #EXTINF:0,TV3 SD
 rtp://@239.0.0.23:8208
-
 #EXTINF:0,Telemadrid Int SD 
 rtp://@239.0.0.25:8208
-
 #EXTINF:0,CanalCocina SD
 rtp://@239.0.0.27:8208
 #EXTINF:0,euronews SD
@@ -166,10 +314,8 @@ rtp://@239.0.0.46:8208
 rtp://@239.0.0.47:8208
 #EXTINF:0,divinity
 rtp://@239.0.0.48:8208
-
 #EXTINF:0,Andalucia Global SD
 rtp://@239.0.0.50:8208
-
 #EXTINF:0,Galicia SD
 rtp://@239.0.0.53:8208
 #EXTINF:0,TV Canaria SD
@@ -186,7 +332,6 @@ rtp://@239.0.0.58:8208
 rtp://@239.0.0.59:8208
 #EXTINF:0,ETB Basque
 rtp://@239.0.0.60:8208
-
 #EXTINF:0,AXN Movies SD
 rtp://@239.0.0.62:8208
 #EXTINF:0,ElToro SD
@@ -197,8 +342,6 @@ rtp://@239.0.0.64:8208
 rtp://@239.0.0.65:8208
 #EXTINF:0,Boing
 rtp://@239.0.0.66:8208
-#EXTINF:0,nickelodeon ukr
-rtp://@239.0.0.67:8208
 #EXTINF:0,Comedy Central SD
 rtp://@239.0.0.68:8208
 #EXTINF:0,nickelodeon SD
@@ -233,7 +376,6 @@ rtp://@239.0.0.83:8208
 rtp://@239.0.0.84:8208
 #EXTINF:0,negocios SD
 rtp://@239.0.0.85:8208
-
 #EXTINF:0,Aragón SD
 rtp://@239.0.0.88:8208
 #EXTINF:0,NG WILD SD
@@ -268,15 +410,13 @@ rtp://@239.0.0.102:8208
 rtp://@239.0.0.103:8208
 #EXTINF:0,0-104
 rtp://@239.0.0.104:8208
-#EXTINF:0,ETB 3 SD
-rtp://@239.0.0.105:8208
 #EXTINF:0,Nova SD
 rtp://@239.0.0.106:8208
 #EXTINF:0,Neox SD
 rtp://@239.0.0.107:8208
 #EXTINF:0,#0 SD
 rtp://@239.0.0.108:8208
-#EXTINF:0,7 CyL SD
+#EXTINF:0,7 CyL 7 SD
 rtp://@239.0.0.109:8208
 #EXTINF:0,betevé
 rtp://@239.0.0.110:8208
@@ -310,49 +450,8 @@ rtp://@239.0.0.123:8208
 rtp://@239.0.0.124:8208
 #EXTINF:0,0-125
 rtp://@239.0.0.125:8208
-#EXTINF:0,La1 Canarias HD
-rtp://@239.0.0.160:8208
-#EXTINF:0,DAZN 3 HD
-rtp://@239.0.0.162:8208
-#EXTINF:0,DAZN 4 HD
-rtp://@239.0.0.163:8208
-#EXTINF:0,Portada HD
-rtp://@239.0.0.164:8208
-#EXTINF:0,Historia HD
-rtp://@239.0.0.166:8208
 #EXTINF:0,Nick Jr
 rtp://@239.0.0.167:8208
-#EXTINF:0,ElToro HD
-rtp://@239.0.0.168:8208
-#EXTINF:0,Cocina HD
-rtp://@239.0.0.169:8208
-#EXTINF:0,EnFamilia HD
-rtp://@239.0.0.171:8208
-#EXTINF:0,Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:0,Comedy Central HD
-rtp://@239.0.0.174:8208
-#EXTINF:0,Ubeat HD
-rtp://@239.0.0.178:8208
-#EXTINF:0,Real MAdrid HD
-rtp://@239.0.0.179:8208
-#EXTINF:0,Multideporte HD
-rtp://@239.0.0.180:8208
-#EXTINF:0,Telemadrid HD
-rtp://@239.0.0.181:8208
-#EXTINF:0,BeMad HD
-rtp://@239.0.0.182:8208
-#EXTINF:0,Clan HD
-rtp://@239.0.0.184:8208
-
-#EXTINF:0,Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:0,TDP HD
-rtp://@239.0.0.188:8208
-#EXTINF:0,Historia HD
-rtp://@239.0.0.190:8208
-#EXTINF:0,Golf 2 HD
-rtp://@239.0.0.191:8208
 #EXTINF:0,0-193
 rtp://@239.0.0.193:8208
 #EXTINF:0,0-194
@@ -371,7 +470,6 @@ rtp://@239.0.0.203:8208
 rtp://@239.0.0.204:8208
 #EXTINF:0,0-206
 rtp://@239.0.0.206:8208
-
 #EXTINF:0,MTV
 rtp://@239.0.0.211:8208
 #EXTINF:0,Navarra TV SD
@@ -383,9 +481,7 @@ rtp://@239.0.1.3:8208
 #EXTINF:0,#Vamos SD
 rtp://@239.0.1.128:8208
 #EXTINF:0,Golf 2 SD
-rtp://@239.0.1.140:8208
- 
- 
+rtp://@239.0.1.140:8208 
 #EXTINF:0,1-169
 rtp://@239.0.1.169:8208
 #EXTINF:0,1-170
@@ -556,77 +652,16 @@ rtp://@239.0.5.2:8208
 rtp://@239.0.5.3:8208
 #EXTINF:0,Series 2 SD
 rtp://@239.0.5.4:8208
-#EXTINF:0,Telecinco HD
-rtp://@239.0.5.59:8208
-#EXTINF:0,decasa HD
-rtp://@239.0.5.60:8208
-#EXTINF:0,Break HD
-rtp://@239.0.5.61:8208
-#EXTINF:0,XTRM HD
-rtp://@239.0.5.62:8208
-
-#EXTINF:0,LaLiga SportsTV HD
-rtp://@239.0.5.65:8208
-#EXTINF:0,DAZN LaLiga 1 HD
-rtp://@239.0.5.66:8208
-#EXTINF:0,DAZN LaLiga 2 HD
-rtp://@239.0.5.67:8208
 #EXTINF:0,5-68
 rtp://@239.0.5.68:8208
 #EXTINF:0,5-69
 rtp://@239.0.5.69:8208
-#EXTINF:0,Loga de Campeones HD
-rtp://@239.0.5.70:8208
-#EXTINF:0,COSMO HD
-rtp://@239.0.5.71:8208
-#EXTINF:0,SUNDANCE HD
-rtp://@239.0.5.72:8208
-#EXTINF:0,Ellas #V HD
-rtp://@239.0.5.73:8208
-#EXTINF:0,Calle 13 HD
-rtp://@239.0.5.74:8208
-#EXTINF:0,SYFY HD
-rtp://@239.0.5.75:8208
-#EXTINF:0,HOLLYWOOD HD
-rtp://@239.0.5.76:8208
-#EXTINF:0,Discovery HD
-rtp://@239.0.5.77:8208
-#EXTINF:0,National Geographic HD
-rtp://@239.0.5.78:8208
-#EXTINF:0,AXN Movies HD
-rtp://@239.0.5.79:8208
-
 #EXTINF:0,5-81
 rtp://@239.0.5.81:8208
-#EXTINF:0,Odisea HD
-rtp://@239.0.5.82:8208
-#EXTINF:0,Series HD
-rtp://@239.0.5.83:8208
 #EXTINF:0,5-84
 rtp://@239.0.5.84:8208
-
-#EXTINF:0,WBTV HD
-rtp://@239.0.5.87:8208
-#EXTINF:0,TCM HD
-rtp://@239.0.5.89:8208
-#EXTINF:0,Eurosport2 HD
-rtp://@239.0.5.105:8208
 #EXTINF:0,5-108
 rtp://@239.0.5.108:8208
-#EXTINF:0,Cine Ñ HD
-rtp://@239.0.5.109:8208
-#EXTINF:0,Portada HD
-rtp://@239.0.5.110:8208
-#EXTINF:0,Estrenos HD
-rtp://@239.0.5.111:8208
-#EXTINF:0,Clásicos HD
-rtp://@239.0.5.112:8208
-#EXTINF:0,Acción HD
-rtp://@239.0.5.113:8208
-#EXTINF:0,Comedia HD
-rtp://@239.0.5.114:8208
-#EXTINF:0,Drama HD
-rtp://@239.0.5.115:8208
 #EXTINF:0,5-116
 rtp://@239.0.5.116:8208
 #EXTINF:0,5-117
@@ -641,8 +676,6 @@ rtp://@239.0.5.120:8208
 rtp://@239.0.5.121:8208
 #EXTINF:0,5-122
 rtp://@239.0.5.122:8208
-#EXTINF:0,Estrenos 2 HD
-rtp://@239.0.5.135:8208
 #EXTINF:0,5-136
 rtp://@239.0.5.136:8208
 #EXTINF:0,5-137
@@ -651,79 +684,28 @@ rtp://@239.0.5.137:8208
 rtp://@239.0.5.138:8208
 #EXTINF:0,5-139
 rtp://@239.0.5.139:8208
-#EXTINF:0,La Resistencia HD
-rtp://@239.0.5.140:8208
 #EXTINF:0,5-141
 rtp://@239.0.5.141:8208
-
-
-
-#EXTINF:0,Caza y Pesca HD
-rtp://@239.0.5.149:8208
-
 #EXTINF:0,5-176
 rtp://@239.0.5.176:8208
 #EXTINF:0,5-177
 rtp://@239.0.5.177:8208
-
-#EXTINF:0,Dreamworks HD
-rtp://@239.0.5.180:8208
-#EXTINF:0,Disney Jr HD
-rtp://@239.0.5.181:8208
-
 #EXTINF:0,Portada HD
 rtp://@239.0.5.185:8208
-
-#EXTINF:0,Iberalia HD
-rtp://@239.0.5.188:8208
-#EXTINF:0,GOL Play HD
-rtp://@239.0.5.189:8208
-#EXTINF:0,DAZN 1 HD
-rtp://@239.0.5.190:8208
-#EXTINF:0,DAZN 2 HD
-rtp://@239.0.5.191:8208
-
-#EXTINF:0,Vacaciones HD
-rtp://@239.0.5.193:8208
 #EXTINF:0,5-194
 rtp://@239.0.5.194:8208
-#EXTINF:0,LaLiga TV HD
-rtp://@239.0.5.195:8208
 #EXTINF:0,5-196
 rtp://@239.0.5.196:8208
 #EXTINF:0,#Vamos HD
 rtp://@239.0.5.197:8208
-#EXTINF:0,Barça TV HD
-rtp://@239.0.5.199:8208
 #EXTINF:0,5-200
 rtp://@239.0.5.200:8208
-
-#EXTINF:0,nickelodeon HD
-rtp://@239.0.5.204:8208
 #EXTINF:0,5-205
 rtp://@239.0.5.205:8208
 #EXTINF:0,5-206
 rtp://@239.0.5.206:8208
-#EXTINF:0,neox HD
-rtp://@239.0.5.207:8208
-#EXTINF:0,Fest HD
-rtp://@239.0.5.208:8208
-#EXTINF:0,nova HD
-rtp://@239.0.5.209:8208
-#EXTINF:0,MEGA HD
-rtp://@239.0.5.210:8208
 #EXTINF:0,5-211
 rtp://@239.0.5.211:8208
-#EXTINF:0,DAZN F1 HD
-rtp://@239.0.5.230:8208
-#EXTINF:0,DAZN F1 HD
-rtp://@239.0.5.246:8208
-#EXTINF:0,Deportes HD
-rtp://@239.0.5.248:8208
-#EXTINF:0,Golf HD
-rtp://@239.0.5.249:8208
-#EXTINF:0,Series 2 HD
-rtp://@239.0.5.250:8208
 #EXTINF:0,5-251
 rtp://@239.0.5.251:8208
 #EXTINF:0,5-252
@@ -744,8 +726,6 @@ rtp://@239.0.6.8:8208
 rtp://@239.0.6.9:8208
 #EXTINF:0,6-13
 rtp://@239.0.6.13:8208
-#EXTINF:0,#Vamos HD
-rtp://@239.0.6.14:8208
 #EXTINF:0,6-34
 rtp://@239.0.6.34:8208
 #EXTINF:0,Unk-6-35 HD
@@ -756,10 +736,6 @@ rtp://@239.0.6.36:8208
 rtp://@239.0.6.37:8208
 #EXTINF:0,6-38
 rtp://@239.0.6.38:8208
-#EXTINF:0,Caza y pesca HD
-rtp://@239.0.6.54:8208
-#EXTINF:0,Mezzo live HD
-rtp://@239.0.6.55:8208
 #EXTINF:0,6-60
 rtp://@239.0.6.60:8208
 #EXTINF:0,Deportes 2 SD
@@ -772,8 +748,6 @@ rtp://@239.0.7.3:8208
 rtp://@239.0.7.4:8208
 #EXTINF:0,7-5
 rtp://@239.0.7.5:8208
-#EXTINF:0,Eurosport 4K
-rtp://@239.0.7.6:8208
 #EXTINF:0,Fox News
 rtp://@239.0.7.65:8208
 #EXTINF:0,AlJAzeera ENG
@@ -782,13 +756,11 @@ rtp://@239.0.7.66:8208
 rtp://@239.0.7.67:8208
 #EXTINF:0,1+1 Ukr
 rtp://@239.0.7.68:8208
+#EXTINF:0,nickelodeon ukr
+rtp://@239.0.0.67:8208
 #EXTINF:0,CBS
 rtp://@239.0.7.69:8208
 #EXTINF:0,RCN
 rtp://@239.0.7.131:8208
 #EXTINF:0,7-132
 rtp://@239.0.7.132:8208
-
-
-
- 
