@@ -17,7 +17,7 @@ rtp://@239.0.0.187:8208
 http://192.168.1.33:9890/live
 #EXTINF:-1,CANAL 4
 https://www.tdtchannels.com/stream/tevecat.m3u8
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" tvg-name="TV3",TV3
+#EXTINF:-1,TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1,À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
