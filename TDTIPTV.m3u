@@ -22,9 +22,9 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1,À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1 Catalunya 
-https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2 Catalunya
-https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr_720.m3u8
 #EXTINF:-1,33
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1,Bon Dia TV
