@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #EXTINF:0,La 1
 rtp://@239.0.0.185:8208
 #EXTINF:0,La 2
