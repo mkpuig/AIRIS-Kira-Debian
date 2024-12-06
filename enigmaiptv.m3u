@@ -1,0 +1,301 @@
+#NAME IPTV
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:rtp%3a//@239.0.0.185%3a8208:La 1
+#DESCRIPTION La 1
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:rtp%3a//@239.0.0.183%3a8208:La 2
+#DESCRIPTION La 2
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:rtp%3a//@239.0.0.186%3a8208:Antena 3
+#DESCRIPTION Antena 3
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:rtp%3a//@239.0.0.177%3a8208:Cuatro
+#DESCRIPTION Cuatro
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:rtp%3a//@239.0.0.176%3a8208:Telecinco
+#DESCRIPTION Telecinco
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:rtp%3a//@239.0.0.187%3a8208:La Sexta
+#DESCRIPTION La Sexta
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//192.168.1.33%3a9890/live:IB3
+#DESCRIPTION IB3
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8:TV3
+#DESCRIPTION TV3
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:https%3a//bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8:À Punt
+#DESCRIPTION À Punt
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8:33
+#DESCRIPTION 33
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr_720.m3u8:La 1 Catalunya
+#DESCRIPTION La 1 Catalunya
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr_720.m3u8:La 2 Catalunya
+#DESCRIPTION La 2 Catalunya
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:https%3a//directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8:TV3CAT
+#DESCRIPTION TV3CAT
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:https%3a//limited35.todostreaming.es/live/mitjans-livestream1.m3u8:Canal 4 Televisió
+#DESCRIPTION Canal 4 Televisió
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:https%3a//limited35.todostreaming.es/live/mitjans-livestream.m3u8:Canal 4 Televisió
+#DESCRIPTION Canal 4 Televisió
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:https%3a//www.tdtchannels.com/stream/tevecat.m3u8:teveCat
+#DESCRIPTION teveCat
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0:betevé
+#DESCRIPTION betevé
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/EIVISSA_2/EIVISSA_2/playlist.m3u8:TEF
+#DESCRIPTION TEF
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8:Ibiza Global TV
+#DESCRIPTION Ibiza Global TV
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:https%3a//hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8:Fibwi Diario
+#DESCRIPTION Fibwi Diario
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/bondia-hls/master.m3u8:Bon Dia TV
+#DESCRIPTION Bon Dia TV
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8:Esport 3
+#DESCRIPTION Esport 3
+#SERVICE 4097:0:1:51:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8:SX3
+#DESCRIPTION SX3
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:https%3a//cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0:betevé
+#DESCRIPTION betevé
+#SERVICE 4097:0:1:55:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/canal324-hls/master.m3u8:324
+#DESCRIPTION 324
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr_720.m3u8:Canal 24 Horas HD
+#DESCRIPTION Canal 24 Horas HD
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:https%3a//d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8:El País
+#DESCRIPTION El País
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:https%3a//daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8:El Confidencial
+#DESCRIPTION El Confidencial
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:https%3a//videos.rtva.ad/live/rtva/playlist.m3u8:ATV Andorra
+#DESCRIPTION ATV Andorra
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:https%3a//euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8:Euronews
+#DESCRIPTION Euronews
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6891743.m3u8:TVE Int. Europa
+#DESCRIPTION TVE Int. Europa
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:https%3a//rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8:TVE Int. Europa
+#DESCRIPTION TVE Int. Europa
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6924117.m3u8:RTVE Crimen
+#DESCRIPTION RTVE Crimen
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6909843.m3u8:RTVE Cuéntame
+#DESCRIPTION RTVE Cuéntame
+#SERVICE 4097:0:1:75:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6909845.m3u8:RTVE Somos Cine
+#DESCRIPTION RTVE Somos Cine
+#SERVICE 4097:0:1:77:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6922467.m3u8:RTVE Época
+#DESCRIPTION RTVE Época
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:https%3a//fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8:Atresplayer Clásicos
+#DESCRIPTION Atresplayer Clásicos
+#SERVICE 4097:0:1:81:0:0:0:0:0:0:https%3a//fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8:Atresplayer Comedia
+#DESCRIPTION Atresplayer Comedia
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:https%3a//fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8:Atresplayer Mentes Inquietas
+#DESCRIPTION Atresplayer Mentes Inquietas
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:https%3a//fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8:Atresplayer Multicine
+#DESCRIPTION Atresplayer Multicine
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:https%3a//fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8:flooxer
+#DESCRIPTION flooxer
+#SERVICE 4097:0:1:89:0:0:0:0:0:0:https%3a//fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8:Kidz
+#DESCRIPTION Kidz
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/oca1-hls/master.m3u8:CCMA Exclusiu 1 GEO CAT
+#DESCRIPTION CCMA Exclusiu 1 GEO CAT
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/oca2-hls/master.m3u8:CCMA Exclusiu 2 GEO CAT
+#DESCRIPTION CCMA Exclusiu 2 GEO CAT
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:https%3a//directes-tv-cat.ccma.cat/live-origin/oca3-hls/master.m3u8:CCMA Exclusiu 3 GEO CAT
+#DESCRIPTION CCMA Exclusiu 3 GEO CAT
+#SERVICE 4097:0:1:97:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6108703.m3u8:+24
+#DESCRIPTION +24
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6108704.m3u8:+24
+#DESCRIPTION +24
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6108706.m3u8:+24
+#DESCRIPTION +24
+#SERVICE 4097:0:1:103:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6108720.m3u8:+24
+#DESCRIPTION +24
+#SERVICE 4097:0:1:105:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6108721.m3u8:+24
+#DESCRIPTION +24
+#SERVICE 4097:0:1:107:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712432.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:109:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712453.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:111:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712402.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:113:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712407.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:115:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712431.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:117:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712410.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:119:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712426.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:121:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712411.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:123:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6712456.m3u8:+tdp
+#DESCRIPTION +tdp
+#SERVICE 4097:0:1:125:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/rtvalive/smil%3achannel1.smil/playlist.m3u8:Canal Sur Andalucía
+#DESCRIPTION Canal Sur Andalucía
+#SERVICE 4097:0:1:127:0:0:0:0:0:0:http%3a//eg128.tmira.com/rtvalive/canal2/playlist.m3u8:Canal Sur 2 Andalucía
+#DESCRIPTION Canal Sur 2 Andalucía
+#SERVICE 4097:0:1:129:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/rtvalive/smil%3achannel22.smil/playlist.m3u8:Canal Sur 2 Accesible
+#DESCRIPTION Canal Sur 2 Accesible
+#SERVICE 4097:0:1:131:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/rtvalive/smil%3achannel1.smil/playlist.m3u8:Canal Sur Andalucía
+#DESCRIPTION Canal Sur Andalucía
+#SERVICE 4097:0:1:133:0:0:0:0:0:0:https%3a//europa-crtvg.flumotion.com/playlist.m3u8:TVG
+#DESCRIPTION TVG
+#SERVICE 4097:0:1:135:0:0:0:0:0:0:https%3a//america-crtvg.flumotion.com/playlist.m3u8:TVG América
+#DESCRIPTION TVG América
+#SERVICE 4097:0:1:137:0:0:0:0:0:0:https%3a//amodino-crtvg.flumotion.com/playlist.m3u8:TVG 2
+#DESCRIPTION TVG 2
+#SERVICE 4097:0:1:139:0:0:0:0:0:0:https%3a//events3-crtvg.flumotion.com/playlist.m3u8:TVG Eventos
+#DESCRIPTION TVG Eventos
+#SERVICE 4097:0:1:141:0:0:0:0:0:0:https%3a//amodino-crtvg.flumotion.com/playlist.m3u8:TVG amodino
+#DESCRIPTION TVG amodino
+#SERVICE 4097:0:1:143:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8:ETB 1
+#DESCRIPTION ETB 1
+#SERVICE 4097:0:1:145:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8:ETB 2
+#DESCRIPTION ETB 2
+#SERVICE 4097:0:1:147:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8:ETB Deportes
+#DESCRIPTION ETB Deportes
+#SERVICE 4097:0:1:149:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8:ETB Deportes
+#DESCRIPTION ETB Deportes
+#SERVICE 4097:0:1:151:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8:ETB Deportes
+#DESCRIPTION ETB Deportes
+#SERVICE 4097:0:1:153:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8:ETB Eventos 1
+#DESCRIPTION ETB Eventos 1
+#SERVICE 4097:0:1:155:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8:ETB Eventos 2 GEO
+#DESCRIPTION ETB Eventos 2 GEO
+#SERVICE 4097:0:1:157:0:0:0:0:0:0:https%3a//multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8:EITB Basque
+#DESCRIPTION EITB Basque
+#SERVICE 4097:0:1:159:0:0:0:0:0:0:https%3a//cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8:Castilla-La Mancha Media
+#DESCRIPTION Castilla-La Mancha Media
+#SERVICE 4097:0:1:161:0:0:0:0:0:0:https%3a//telemadrid-23.secure2.footprint.net/master.m3u8:Telemadrid
+#DESCRIPTION Telemadrid
+#SERVICE 4097:0:1:163:0:0:0:0:0:0:https%3a//new-international-23.secure2.footprint.net/index.m3u8:Telemadrid Internacional
+#DESCRIPTION Telemadrid Internacional
+#SERVICE 4097:0:1:165:0:0:0:0:0:0:https%3a//laotra-1-23.secure2.footprint.net/master.m3u8:LaOtra
+#DESCRIPTION LaOtra
+#SERVICE 4097:0:1:167:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/rtpalive/smil%3adirecto/playlist.m3u8?DVR:TPA7
+#DESCRIPTION TPA7
+#SERVICE 4097:0:1:169:0:0:0:0:0:0:https%3a//rtv-murcia-live.globalmest.com/principal/smil%3aprincipal.smil/playlist.m3u8:7 R. de Murcia
+#DESCRIPTION 7 R. de Murcia
+#SERVICE 4097:0:1:171:0:0:0:0:0:0:https%3a//rtv-murcia-live.globalmest.com/secundario/smil%3asecundario.smil/playlist.m3u8:7 R. de Murcia
+#DESCRIPTION 7 R. de Murcia
+#SERVICE 4097:0:1:173:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/canalextremaduralive/smil%3achannel1DVR.smil/playlist.m3u8?DVR:Canal Extremadura
+#DESCRIPTION Canal Extremadura
+#SERVICE 4097:0:1:175:0:0:0:0:0:0:https%3a//cdnlive.codev8.net/canalextremaduralive/smil%3achannel5.smil/playlist.m3u8:Canal Extremadura
+#DESCRIPTION Canal Extremadura
+#SERVICE 4097:0:1:177:0:0:0:0:0:0:https%3a//cartv-streaming.aranova.es/hls/live/adeportes_deporte5.m3u8:Aragón Deporte
+#DESCRIPTION Aragón Deporte
+#SERVICE 4097:0:1:179:0:0:0:0:0:0:https%3a//cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8:Aragón Deporte
+#DESCRIPTION Aragón Deporte
+#SERVICE 4097:0:1:181:0:0:0:0:0:0:https%3a//cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8:Aragón Deporte
+#DESCRIPTION Aragón Deporte
+#SERVICE 4097:0:1:183:0:0:0:0:0:0:https%3a//cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8:Aragón Deporte
+#DESCRIPTION Aragón Deporte
+#SERVICE 4097:0:1:185:0:0:0:0:0:0:https%3a//cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8:Aragón Deporte
+#DESCRIPTION Aragón Deporte
+#SERVICE 4097:0:1:187:0:0:0:0:0:0:https%3a//cartv.streaming.aranova.es/hls/live/adeportes_deporte6.m3u8:Aragón Deporte
+#DESCRIPTION Aragón Deporte
+#SERVICE 4097:0:1:189:0:0:0:0:0:0:https%3a//cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8:Aragón Noticias
+#DESCRIPTION Aragón Noticias
+#SERVICE 4097:0:1:191:0:0:0:0:0:0:https%3a//cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8:Aragón TV
+#DESCRIPTION Aragón TV
+#SERVICE 4097:0:1:193:0:0:0:0:0:0:http%3a//www.sonus.fm%3a1935/public/stream_source/playlist.m3u8:Sonus TV
+#DESCRIPTION Sonus TV
+#SERVICE 4097:0:1:195:0:0:0:0:0:0:https%3a//www.urbanrevolution.es%3a444/live/5e6d8470a3832/index.m3u8:Urban Revolution
+#DESCRIPTION Urban Revolution
+#SERVICE 4097:0:1:197:0:0:0:0:0:0:https%3a//fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8:El club de la comedia
+#DESCRIPTION El club de la comedia
+#SERVICE 4097:0:1:199:0:0:0:0:0:0:rtp%3a//@239.0.5.207%3a8208:Neox
+#DESCRIPTION Neox
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:rtp%3a//@239.0.0.190%3a8208:Atreseries
+#DESCRIPTION Atreseries
+#SERVICE 4097:0:1:203:0:0:0:0:0:0:rtp%3a//@239.0.0.59%3a8208:Energy
+#DESCRIPTION Energy
+#SERVICE 4097:0:1:205:0:0:0:0:0:0:rtp%3a//@239.0.0.91%3a8208:13 TV
+#DESCRIPTION 13 TV
+#SERVICE 4097:0:1:207:0:0:0:0:0:0:rtp%3a//@239.0.0.34%3a8208:Ten
+#DESCRIPTION Ten
+#SERVICE 4097:0:1:209:0:0:0:0:0:0:rtp%3a//@239.0.0.90%3a8208:Paramount Network
+#DESCRIPTION Paramount Network
+#SERVICE 4097:0:1:211:0:0:0:0:0:0:rtp%3a//@239.0.5.189%3a8208:GOL
+#DESCRIPTION GOL
+#SERVICE 4097:0:1:213:0:0:0:0:0:0:rtp%3a//@239.0.0.188%3a8208:Teledeporte
+#DESCRIPTION Teledeporte
+#SERVICE 4097:0:1:215:0:0:0:0:0:0:rtp%3a//@239.0.0.179%3a8208:Real Madrid TV
+#DESCRIPTION Real Madrid TV
+#SERVICE 4097:0:1:217:0:0:0:0:0:0:rtp%3a//@239.0.0.32%3a8208:Discovery Max
+#DESCRIPTION Discovery Max
+#SERVICE 4097:0:1:219:0:0:0:0:0:0:rtp%3a//@239.0.0.6%3a8208:DKISS
+#DESCRIPTION DKISS
+#SERVICE 4097:0:1:221:0:0:0:0:0:0:rtp%3a//@239.0.0.48%3a8208:Divinity
+#DESCRIPTION Divinity
+#SERVICE 4097:0:1:223:0:0:0:0:0:0:rtp%3a//@239.0.5.209%3a8208:Nova
+#DESCRIPTION Nova
+#SERVICE 4097:0:1:225:0:0:0:0:0:0:rtp%3a//@239.0.5.210%3a8208:MEGA
+#DESCRIPTION MEGA
+#SERVICE 4097:0:1:227:0:0:0:0:0:0:rtp%3a//@239.0.0.182%3a8208:BeMad
+#DESCRIPTION BeMad
+#SERVICE 4097:0:1:229:0:0:0:0:0:0:rtp%3a//@239.0.0.173%3a8208:Disney Channel
+#DESCRIPTION Disney Channel
+#SERVICE 4097:0:1:231:0:0:0:0:0:0:rtp%3a//@239.0.0.92%3a8208:Disney JR
+#DESCRIPTION Disney JR
+#SERVICE 4097:0:1:233:0:0:0:0:0:0:rtp%3a//@239.0.0.184%3a8208:Clan TVE
+#DESCRIPTION Clan TVE
+#SERVICE 4097:0:1:235:0:0:0:0:0:0:rtp%3a//@239.0.0.66%3a8208:Boing
+#DESCRIPTION Boing
+#SERVICE 4097:0:1:237:0:0:0:0:0:0:https%3a//congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8:Canal Parlamento
+#DESCRIPTION Canal Parlamento
+#SERVICE 4097:0:1:239:0:0:0:0:0:0:https%3a//congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8:Canal Parlamento SRD
+#DESCRIPTION Canal Parlamento SRD
+#SERVICE 4097:0:1:241:0:0:0:0:0:0:rtp%3a//@239.0.0.63%3a8208:El Toro TV
+#DESCRIPTION El Toro TV
+#SERVICE 4097:0:1:243:0:0:0:0:0:0:https%3a//play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8:Negocios TV
+#DESCRIPTION Negocios TV
+#SERVICE 4097:0:1:245:0:0:0:0:0:0:https%3a//streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8:Rai News
+#DESCRIPTION Rai News
+#SERVICE 4097:0:1:247:0:0:0:0:0:0:https%3a//d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil%3ach-01.smil/master.m3u8:San Marino RTV IT
+#DESCRIPTION San Marino RTV IT
+#SERVICE 4097:0:1:249:0:0:0:0:0:0:https%3a//d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/master.m3u8:San Marino RTV IT
+#DESCRIPTION San Marino RTV IT
+#SERVICE 4097:0:1:251:0:0:0:0:0:0:https%3a//cdnlive.presstv.ir/cdnlive/smil%3alive.smil/playlist.m3u8:Hispan TV Iran
+#DESCRIPTION Hispan TV Iran
+#SERVICE 4097:0:1:253:0:0:0:0:0:0:https%3a//rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8:RT
+#DESCRIPTION RT
+#SERVICE 4097:0:1:255:0:0:0:0:0:0:https%3a//dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8:DW
+#DESCRIPTION DW
+#SERVICE 4097:0:1:257:0:0:0:0:0:0:https%3a//pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8:Digi24 Rumanía RO
+#DESCRIPTION Digi24 Rumanía RO
+#SERVICE 4097:0:1:259:0:0:0:0:0:0:https%3a//dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8:CNN Internacional
+#DESCRIPTION CNN Internacional
+#SERVICE 4097:0:1:261:0:0:0:0:0:0:https%3a//fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8:FOX Live Now USA EN
+#DESCRIPTION FOX Live Now USA EN
+#SERVICE 4097:0:1:263:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:ABC News USA EN
+#DESCRIPTION ABC News USA EN
+#SERVICE 4097:0:1:265:0:0:0:0:0:0:https%3a//cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8:CBS News USA EN
+#DESCRIPTION CBS News USA EN
+#SERVICE 4097:0:1:267:0:0:0:0:0:0:https%3a//cheddar.samsung.wurl.com/manifest/playlist.m3u8:Cheddar USA EN
+#DESCRIPTION Cheddar USA EN
+#SERVICE 4097:0:1:269:0:0:0:0:0:0:https%3a//www.bloomberg.com/media-manifest/streams/us.m3u8:Bloomberg USA EN
+#DESCRIPTION Bloomberg USA EN
+#SERVICE 4097:0:1:271:0:0:0:0:0:0:https%3a//bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8:Bloomberg Europe
+#DESCRIPTION Bloomberg Europe
+#SERVICE 4097:0:1:273:0:0:0:0:0:0:https%3a//linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8:Sky News UK EN
+#DESCRIPTION Sky News UK EN
+#SERVICE 4097:0:1:275:0:0:0:0:0:0:https%3a//live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8:GB News UK
+#DESCRIPTION GB News UK
+#SERVICE 4097:0:1:277:0:0:0:0:0:0:https%3a//abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8:ABC Australia
+#DESCRIPTION ABC Australia
+#SERVICE 4097:0:1:279:0:0:0:0:0:0:https%3a//ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8:RÚV Islandia
+#DESCRIPTION RÚV Islandia
+#SERVICE 4097:0:1:281:0:0:0:0:0:0:https%3a//ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8:RÚV Islandia
+#DESCRIPTION RÚV Islandia
+#SERVICE 4097:0:1:283:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8:Ukraine 24 Ucrania
+#DESCRIPTION Ukraine 24 Ucrania
+#SERVICE 4097:0:1:285:0:0:0:0:0:0:https%3a//freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8:UATV Ucrania
+#DESCRIPTION UATV Ucrania
+#SERVICE 4097:0:1:287:0:0:0:0:0:0:https%3a//rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8:Current Time TV
+#DESCRIPTION Current Time TV
+#SERVICE 4097:0:1:289:0:0:0:0:0:0:https%3a//nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8:NHK Japan
+#DESCRIPTION NHK Japan
+#SERVICE 4097:0:1:291:0:0:0:0:0:0:https%3a//indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8:India Today
+#DESCRIPTION India Today
+#SERVICE 4097:0:1:293:0:0:0:0:0:0:https%3a//ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8:NASA TV Public
+#DESCRIPTION NASA TV Public
+#SERVICE 4097:0:1:295:0:0:0:0:0:0:https%3a//ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8:NASA TV Media
+#DESCRIPTION NASA TV Media
+#SERVICE 4097:0:1:297:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8:NASA ISS
+#DESCRIPTION NASA ISS
+#SERVICE 4097:0:1:299:0:0:0:0:0:0:http%3a//rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1409752803_b1500000.m3u8:RTVGE
+#DESCRIPTION RTVGE
+#SERVICE 4097:0:1:301:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1938076.m3u8:Radio Nacional
+#DESCRIPTION Radio Nacional
+#SERVICE 4097:0:1:303:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/2795617.m3u8:Radio 3
+#DESCRIPTION Radio 3
+#SERVICE 4097:0:1:305:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/6782425.m3u8:Ràdio 4
+#DESCRIPTION Ràdio 4

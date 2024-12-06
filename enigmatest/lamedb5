@@ -1,0 +1,101 @@
+eDVB services /5/
+# Transponders: t:dvb_namespace:transport_stream_id:original_network_id,FEPARMS
+#     DVBS  FEPARMS:   s:frequency:symbol_rate:polarisation:fec:orbital_position:inversion:flags
+#     DVBS2 FEPARMS:   s:frequency:symbol_rate:polarisation:fec:orbital_position:inversion:flags:system:modulation:rolloff:pilot[,MIS/PLS:is_id:pls_code:pls_mode][,T2MI:t2mi_plp_id:t2mi_pid]
+#     DVBT  FEPARMS:   t:frequency:bandwidth:code_rate_HP:code_rate_LP:modulation:transmission_mode:guard_interval:hierarchy:inversion:flags:system:plp_id
+#     DVBC  FEPARMS:   c:frequency:symbol_rate:inversion:modulation:fec_inner:flags:system
+#     ATSC  FEPARMS:   a:frequency:inversion:modulation:flags:system
+# Services    : s:service_id:dvb_namespace:transport_stream_id:original_network_id:service_type:service_number:source_id,"service_name"[,p:provider_name][,c:cached_pid]*[,C:cached_capid]*[,f:flags]
+t:eeee0000:3138:0001,t:554000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:0001:22d4,t:578000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:000a:22d4,t:482000000:0:5:5:3:2:4:4:2:0:1:0
+t:eeee0000:000e:22d4,t:682000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:000f:22d4,t:546000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:0010:22d4,t:586000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:0011:22d4,t:690000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:0012:22d4,t:562000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:03eb:22d4,t:666000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:189c:22d4,t:514000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:2724:22d4,t:602000000:0:5:5:3:2:4:4:2:0:0:0
+t:eeee0000:4269:22d4,t:634000000:0:5:5:3:2:4:4:2:0:1:0
+t:eeee0000:9c40:22d4,t:642000000:0:5:5:3:2:4:4:2:0:0:0
+s:0001:eeee0000:0001:22d4:1:0:0,"Solidaria TV",p:Solidaria,c:00400,c:03400,c:051,c:14401
+s:0001:eeee0000:3138:0001:1:0:0,"DATA TEST A",p:INGEST TELECOM,c:0066,c:0167,c:0365
+s:0001:eeee0000:4269:22d4:1:0:0,"fibwi TV HD",p:Prophase,c:001010,c:011011,c:031010,c:051
+s:0002:eeee0000:0001:22d4:1:0:0,"'RadioSolidaria'",p:'TodoStreaming'
+s:0002:eeee0000:3138:0001:1:0:0,"DATA TEST B",p:INGEST TELECOM,c:00ca,c:01cb,c:03c9
+s:0002:eeee0000:4269:22d4:1:0:0,"fibwi TV 4K",p:Prophase,c:00400,c:03400,c:057,c:14401
+s:0003:eeee0000:0001:22d4:1:0:0,"FIESTA FM",p:Provider,c:03403,c:14403
+s:0003:eeee0000:4269:22d4:1:0:0,"Informacion",p:Prophase,c:001100,c:031100,c:051,c:141101
+s:0004:eeee0000:0001:22d4:1:0:0,"AlternativaTV",p:Provider,c:00404,c:01405,c:03404,c:051
+s:0004:eeee0000:3138:0001:1:0:0,"DATA TEST D",p:INGEST TELECOM,c:00192,c:01193,c:03191
+s:0005:eeee0000:3138:0001:1:0:0,"DATA TEST E",p:INGEST TELECOM,c:001f6,c:011f7,c:031f5
+s:4e74:eeee0000:2724:22d4:1:0:0,"Lux Mallorca",p:GRUP SERRA
+s:03e8:eeee0000:4269:22d4:1:0:0,"fibwi ClubTV HD",p:Prophase,c:001000,c:011001,c:031000,c:051
+s:2808:eeee0000:189c:22d4:2:0:0,"IB3 RADIO",p:IB3,c:0125b,c:0325b
+s:0009:eeee0000:3138:0001:2:0:0,"RADIO TEST 1",p:INGEST TELECOM,c:03386
+s:0118:eeee0000:000e:22d4:2:0:0,"RADIO MARCA",p:RADIO MARCA
+s:011a:eeee0000:000e:22d4:2:0:0,"CADENA 100",p:CADENA 100
+s:011b:eeee0000:000e:22d4:2:0:0,"RADIO MARIA",p:RADIO MARIA
+s:a02a:eeee0000:9c40:22d4:2:0:0,"Kiss FM",p:Kiss FM,c:0144d,c:0344f
+s:a02b:eeee0000:9c40:22d4:2:0:0,"HIT FM",p:HIT FM
+s:a02c:eeee0000:9c40:22d4:2:0:0,"esRadio",p:esRadio
+s:a02d:eeee0000:9c40:22d4:2:0:0,"SER",p:SER
+s:a02e:eeee0000:9c40:22d4:2:0:0,"LOS40",p:LOS40
+s:a02f:eeee0000:9c40:22d4:2:0:0,"DIAL",p:DIAL
+s:0132:eeee0000:000e:22d4:2:0:0,"BOM RADIO",p:BOM RADIO
+s:9c45:eeee0000:9c40:22d4:2:0:0,"Radio Clasica HQ RNE",p:RTVE,c:03bc3,c:137dc
+s:9c46:eeee0000:9c40:22d4:2:0:0,"Radio3 HQ RNE",p:RTVE
+s:9c47:eeee0000:9c40:22d4:2:0:0,"Radio Exterior RNE",p:RTVE
+s:2868:eeee0000:189c:22d4:2:0:0,"CAT RADIO",p:TVC,c:012bf,c:032bf
+s:0069:eeee0000:0012:22d4:2:0:0,"LOS40 Classic",p:LOS40 Classic,c:011fe,c:0319d
+s:006a:eeee0000:0012:22d4:2:0:0,"LOS40 Urban",p:LOS40 Urban
+s:006b:eeee0000:0012:22d4:2:0:0,"Radiolé",p:Radiolé,c:012c6,c:03201
+s:4e73:eeee0000:2724:22d4:2:0:0,"Radio Murta",p:Canal 4,c:01402,c:03402
+s:4e75:eeee0000:2724:22d4:2:0:0,"Das Inselradio",p:Group Serra,c:0125a,c:0325a
+s:4e76:eeee0000:2724:22d4:2:0:0,"Mallorca Sunshine Radio",p:Group Serra,c:012be,c:032be
+s:4e77:eeee0000:2724:22d4:2:0:0,"Última Hora Radio",p:Group Serra
+s:009c:eeee0000:0011:22d4:2:0:0,"ONDA CERO",p:A3MEDIA
+s:009d:eeee0000:0011:22d4:2:0:0,"EUROPA FM",p:A3MEDIA
+s:009e:eeee0000:0011:22d4:2:0:0,"MELODIA FM",p:A3MEDIA
+s:00ab:eeee0000:0011:22d4:2:0:0,"COPE",p:COPE
+s:00ac:eeee0000:0011:22d4:2:0:0,"Rock FM",p:COPE
+s:01bd:eeee0000:03eb:22d4:2:0:0,"RNE Baleares",p:RTVE
+s:01be:eeee0000:03eb:22d4:2:0:0,"Radio 5 RNE",p:RTVE
+s:2805:eeee0000:189c:22d4:22:0:0,"fibwiTV HD",p:fibwiTV HD,f:40
+s:2805:eeee0000:189c:22d4:25:0:0,"fibwiTV HD",p:fibwiTV HD,c:00bba,c:01bb9,c:02bbc,c:03bba,c:051
+s:2807:eeee0000:189c:22d4:25:0:0,"IB3HD",p:IB3,c:00c9,c:01cb,c:0266,c:03c9,c:051
+s:0115:eeee0000:000e:22d4:25:0:0,"DMAX",p:VEO
+s:0116:eeee0000:000e:22d4:25:0:0,"GOL PLAY HD",p:Mediapro
+s:a029:eeee0000:9c40:22d4:25:0:0,"DKISS",p:DKISS,c:003e9,c:013ea,c:023ed,c:033e9,c:051
+s:9c41:eeee0000:9c40:22d4:25:0:0,"Clan HD",p:RTVE,c:005dd,c:025f0,c:035dd,c:051,c:135de
+s:2864:eeee0000:189c:22d4:25:0:0,"TV3Cat",p:TVC,c:0012d,c:0112f,c:0212e,c:0312d,c:051
+s:0065:eeee0000:0012:22d4:25:0:0,"atreseries HD",p:A3MEDIA,c:0065,c:0266,c:0365,c:051,c:1367
+s:2865:eeee0000:189c:22d4:25:0:0,"SX3/33",p:TVC,c:00191,c:01193,c:02192,c:03191,c:051
+s:0066:eeee0000:0012:22d4:25:0:0,"BeMad tv HD",p:MEDIASET,c:00c9,c:01cb,c:02ca,c:03c9,c:051
+s:2866:eeee0000:189c:22d4:25:0:0,"3_24",p:TVC,c:001f5,c:011f7,c:021f6,c:031f5,c:051
+s:0067:eeee0000:0012:22d4:25:0:0,"Realmadrid TV HD",p:Realmadrid,c:0012d,c:0112f,c:0312d,c:051
+s:0068:eeee0000:0012:22d4:25:0:0,"TEN",p:TEN,c:00191,c:01192,c:02197,c:03191,c:051
+s:4e71:eeee0000:2724:22d4:25:0:0,"CANAL 4 HD",p:Canal4,c:00200,c:01202,c:02206,c:03200,c:051
+s:0095:eeee0000:000f:22d4:25:0:0,"antena3 HD",p:ATRESMEDIA,c:0065,c:02ca,c:0365,c:051,c:1367
+s:0097:eeee0000:000f:22d4:25:0:0,"laSexta HD",p:ATRESMEDIA,c:0012d,c:02192,c:0312d,c:051,c:1312f
+s:0099:eeee0000:000f:22d4:25:0:0,"neox HD",p:ATRESMEDIA,c:001f5,c:02192,c:031f5,c:051,c:131f7
+s:009a:eeee0000:000f:22d4:25:0:0,"nova HD",p:ATRESMEDIA,c:00259,c:02ca,c:03259,c:051,c:1325b
+s:009b:eeee0000:0011:22d4:25:0:0,"mega HD",p:A3MEDIA
+s:00aa:eeee0000:0011:22d4:25:0:0,"TRECE",p:TRECE
+s:01b8:eeee0000:03eb:22d4:25:0:0,"tdp HD",p:RTVE
+s:01bb:eeee0000:03eb:22d4:25:0:0,"24h HD",p:RTVE
+s:00bc:eeee0000:0010:22d4:25:0:0,"FDF",p:MEDIASET,c:00515,c:01517,c:02516,c:03515,c:051
+s:01bc:eeee0000:03eb:22d4:25:0:0,"La 1 HD",p:RTVE,c:0012d,c:0266,c:0312d,c:051,c:1312e
+s:00bd:eeee0000:0010:22d4:25:0:0,"Divinity",p:MEDIASET,c:00579,c:0157b,c:0257a,c:03579,c:051
+s:00be:eeee0000:0010:22d4:25:0:0,"Telecinco HD",p:MEDIASET,c:005dd,c:015df,c:0244e,c:035dd,c:051
+s:00bf:eeee0000:0010:22d4:25:0:0,"Cuatro HD",p:MEDIASET,c:006a5,c:016a7,c:024b2,c:036a5,c:051
+s:00c0:eeee0000:0011:22d4:25:0:0,"Energy",p:MEDIASET
+s:01c0:eeee0000:03eb:22d4:25:0:0,"La 2 HD",p:RTVE,c:00191,c:02ca,c:03191,c:051,c:13192
+s:00c1:eeee0000:0011:22d4:25:0:0,"Boing",p:MEDIASET
+s:00c9:eeee0000:000e:22d4:25:0:0,"Disney Channel",p:Disney Channel
+s:00ca:eeee0000:000e:22d4:25:0:0,"PARAMOUNT NETWORK",p:PARAMOUNT NETWORK
+s:9c43:eeee0000:9c40:22d4:31:0:0,"La 1 UHD",p:RTVE,c:00fa1,c:03fa1,c:057,c:13fa2
+s:30d5:eeee0000:000a:22d4:31:0:0,"TVE UHD",p:RTVE,c:00100,c:03100,c:057,c:13101
+s:30d6:eeee0000:000a:22d4:31:0:0,"UHD-2",p:Cellnex,c:00200,c:01201,c:03200,c:057
+# done. 13 channels and 79 services

@@ -1,0 +1,77 @@
+  0.010	PYTHON_START
+  0.056	SetupDevices
+  1.388	Geolocation
+  1.963	SimpleSummary
+1708941813.360	LOAD:enigma
+1708941813.360	LOAD:InfoBarGenerics
+1708941813.401	ChannelSelection.py 1
+1708941813.473	ChannelSelection.py 2
+1708941813.473	ChannelSelection.py 2.1
+1708941813.484	ChannelSelection.py 2.2
+1708941813.485	ChannelSelection.py 2.3
+1708941813.485	ChannelSelection.py 3
+1708941813.612	ChannelSelection.py 4
+1708941813.618	ChannelSelection.py after imports
+1708941813.640	VolumeControl
+1708941813.736	LOAD:InitBar_Components
+1708941813.736	LOAD:HelpableScreen
+1708941813.743	Bouquets
+1708941813.758	ParentalControl
+1708941813.762	LOAD:Navigation
+1708941813.771	LOAD:skin
+1708941813.771	LOAD:Tools
+1708941813.773	config.misc
+1708941813.782	Twisted
+1708941816.210	LOAD:Plugin
+1708941816.210	LOAD:Wizard
+1708941816.287	misc
+1708941816.287	LOAD:ScreenGlobals
+1708941816.336	Screen
+1708941816.337	Standby,PowerKey
+1708941816.338	Scart
+1708941816.342	Load:CI
+1708941816.353	Load:VolumeControl
+1708941816.353	Init:skin
+1708941817.052	InputDevice
+1708941817.107	AVSwitch
+1708941817.151	RecordingConfig
+1708941817.158	UsageConfig
+1708941817.639	Timezones
+1708941817.846	keymapparser
+1708941817.966	Network
+1708941818.002	LCD
+1708941818.008	RFMod
+1708941818.013	Init:CI
+1708941818.014	RcModel
+1708941818.014	Init:PowerOffTimer
+1708941818.034	readPluginList
+1708941818.037	plugin CutListEditor
+1708941818.056	plugin Tuxtxt
+1708941818.067	plugin AutoBackup
+1708941818.087	plugin MediaScanner
+1708941818.111	plugin MediaPlayer
+1708941818.156	plugin GraphMultiEPG
+1708941818.193	plugin OpenWebif
+1708941821.778	plugin WebInterface
+1708941821.788	plugin PicturePlayer
+1708941821.797	plugin AudioSync
+1708941821.857	plugin MovieCut
+1708941821.884	plugin OSDPositionSetup
+1708941821.885	plugin FastScan
+1708941821.900	plugin Satfinder
+1708941821.947	plugin OSD3DSetup
+1708941821.958	plugin CableScan
+1708941821.972	plugin PositionerSetup
+1708941821.981	plugin Hotplug
+1708941822.014	plugin WirelessLan
+1708941822.063	plugin NetworkBrowser
+1708941822.127	plugin VideoTune
+1708941822.137	plugin Videomode
+1708941822.209	plugin HdmiCEC
+1708941822.240	plugin ServiceHisilicon
+1708941822.282	Init:Session
+1708941822.395	wizards
+1708941823.581	Init:VolumeControl
+1708941823.601	Init:PowerKey
+1708941823.604	Init:Trashcan
+1708941823.605	RunReactor
