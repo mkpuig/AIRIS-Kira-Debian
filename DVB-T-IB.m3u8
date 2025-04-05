@@ -1,0 +1,50 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="444" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:1BC:3EB:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
+#EXTVLCOPT:program=444
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:1BC:3EB:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="448" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:1C0:3EB:22D4:EEEE0000:0:0:0:" tvg-name="La 2 HD",La 2 HD
+#EXTVLCOPT:program=448
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:1C0:3EB:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="149" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:95:F:22D4:EEEE0000:0:0:0:" tvg-name="Antena 3",Antena 3
+#EXTVLCOPT:program=149
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:95:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="191" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:BF:10:22D4:EEEE0000:0:0:0:" tvg-name="Cuatro HD",Cuatro HD
+#EXTVLCOPT:program=191
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:BF:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="190" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:BE:10:22D4:EEEE0000:0:0:0:" tvg-name="Telecinco HD",Telecinco HD
+#EXTVLCOPT:program=190
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:BE:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="151" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:97:F:22D4:EEEE0000:0:0:0:" tvg-name="laSexta",laSexta
+#EXTVLCOPT:program=151
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:97:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="20081" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:4E71:2724:22D4:EEEE0000:0:0:0:" tvg-name="CANAL 4 HD",CANAL 4 HD
+#EXTVLCOPT:program=20081
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:4E71:2724:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="10247" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:2807:189C:22D4:EEEE0000:0:0:0:" tvg-name="IB3HD",IB3HD
+#EXTVLCOPT:program=10247
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2807:189C:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="443" tvg-logo="http://192.168.1.129/picon/24h.png" tvg-id="1:0:19:1BB:3EB:22D4:EEEE0000:0:0:0:" tvg-name="24h HD",24h HD
+#EXTVLCOPT:program=443
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:1BB:3EB:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="10245" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:2805:189C:22D4:EEEE0000:0:0:0:" tvg-name="fibwiTV HD",fibwiTV HD
+#EXTVLCOPT:program=10245
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2805:189C:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40003" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:1F:9C43:9C40:22D4:EEEE0000:0:0:0:" tvg-name="La 1 UHD",La 1 UHD
+#EXTVLCOPT:program=40003
+http://root:qwerty123456@192.168.1.129:8001/1:0:1F:9C43:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1000" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:1:3E8:4269:22D4:EEEE0000:0:0:0:" tvg-name="fibwi ClubTV HD",fibwi ClubTV HD
+#EXTVLCOPT:program=1000
+http://root:qwerty123456@192.168.1.129:8001/1:0:1:3E8:4269:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="10342" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:2866:189C:22D4:EEEE0000:0:0:0:" tvg-name="3_24",3_24
+#EXTVLCOPT:program=10342
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2866:189C:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:1:1:4269:22D4:EEEE0000:0:0:0:" tvg-name="fibwi TV 4K",fibwi TV 4K
+#EXTVLCOPT:program=1
+http://root:qwerty123456@192.168.1.129:8001/1:0:1:1:4269:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="10341" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:2865:189C:22D4:EEEE0000:0:0:0:" tvg-name="SX3/33",SX3/33
+#EXTVLCOPT:program=10341
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2865:189C:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="10340" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:2864:189C:22D4:EEEE0000:0:0:0:" tvg-name="TV3Cat",TV3Cat
+#EXTVLCOPT:program=10340
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2864:189C:22D4:EEEE0000:0:0:0:

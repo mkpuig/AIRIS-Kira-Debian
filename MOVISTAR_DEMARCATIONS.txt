@@ -1,0 +1,46 @@
+Set on lib/enpoints.py
+demarcation=
+#0  - ??
+#1  - Catalunya
+#2  - ??
+#3  - ??
+#4  - Castilla y leon
+#5  - ??
+#6  - C. Valenciana
+#7  - ??
+#8  - ??
+#9  - ??
+#10 - Illes Balears
+#11 - ??
+#12 - R. de Murcia
+#13 - ??
+#14 - ??
+#15 - Andalucia
+#16 - ??
+#17 - ??
+#18 - ??
+#19 - Madrid
+#20 - ??
+#21 - ??
+#22 - ??
+#23 - ??
+#24 - Galicia
+#25 - ??
+#26 - ??
+#27 - ??
+#28 - ?? 
+#29 - ??
+#30 - ??
+#31 - ??
+#32 - Extremadura
+#33 - ??
+#34 - Aragon
+#35 - Navarra
+#36 - Euskadi
+#37 - Canarias
+#38 - Castilla la mancha
+#39 - ??
+#40 - ?? 
+#41 - ??
+#42 - ??
+#43 - ??
