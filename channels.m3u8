@@ -2,34 +2,37 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 ## Movistar+
 #EXTINF:-1 tvg-name="LA 1" tvg-id="TVE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" tvg-chno="1" group-title="Movistar+",LA 1
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TVE&url=https%3A%2F%2Ftvela1-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TVE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4521
+#EXTVLCOPT:program=1
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:1BC:3EB:22D4:EEEE0000:0:0:0:
 
 #EXTINF:-1 tvg-name="LA 2" tvg-id="LA2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2" tvg-chno="2" group-title="Movistar+",LA 2
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=LA2&url=https%3A%2F%2Fla2-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22LA2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4522
+rtp://@239.0.0.183:8208
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="A3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/A3" tvg-chno="3" group-title="Movistar+",Antena 3
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=A3&url=https%3A%2F%2Fantena3-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22A3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4523
+rtp://@239.0.0.186:8208
 
 #EXTINF:-1 tvg-name="Cuatro" tvg-id="C4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C4" tvg-chno="4" group-title="Movistar+",Cuatro
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=C4&url=https%3A%2F%2Fcuatro-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22C4%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4524
+rtp://@239.0.0.177:8208
 
 #EXTINF:-1 tvg-name="Telecinco" tvg-id="T5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/T5" tvg-chno="5" group-title="Movistar+",Telecinco
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=T5&url=https%3A%2F%2Ftele5-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22T5%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4525
+rtp://@239.0.0.176:8208
 
 #EXTINF:-1 tvg-name="La Sexta" tvg-id="SEXTA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEXTA" tvg-chno="6" group-title="Movistar+",La Sexta
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SEXTA&url=https%3A%2F%2Flasexta-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SEXTA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4526
+rtp://@239.0.0.187:8208
 
 #EXTINF:-1 tvg-name="IB3 TV Illes Balears" tvg-id="IB3 TV Illes Balears" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IB3" tvg-chno="7" group-title="Movistar+",IB3 TV Illes Balears
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=IB3&url=https%3A%2F%2Ftdt3ibiza-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22IB3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5091
+#EXTVLCOPT:program=7
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2807:189C:22D4:EEEE0000:0:0:0:
+#plugin://plugin.video.movistarplus/?action=play&stype=tv&id=IB3&url=https%3A%2F%2Ftdt3ibiza-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22IB3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5091
 
 #EXTINF:-1 tvg-name="TV3" tvg-id="TV3CAT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV3CAT" tvg-chno="8" group-title="Movistar+",TV3
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TV3CAT&url=https%3A%2F%2Ftdttv3-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TV3CAT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4982
 
+#EXTINF:-1 tvg-name="El 33 Catalunya" tvg-id=El 33 Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png" tvg-chno="9" group-title="Movistar+" catchup="vod",C33
+rtp://@239.0.5.137:8208
+
 #EXTINF:-1 tvg-name="À Punt" tvg-id="APUNT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" tvg-chno="10" group-title="Movistar+",À Punt
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=APUNT&url=https%3A%2F%2Ftdtapuntvalencia-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22APUNT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5088
-
-#EXTINF:-1 tvg-name="El 33 Catalunya" tvg-id=El 33 Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png" tvg-chno="9" group-title="Movistar+" catchup="vod",C33
-https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-name="Movistar Plus+" tvg-id="MPLUS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" tvg-chno="11" group-title="Movistar+",Movistar Plus+
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS&url=https%3A%2F%2Fmplus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5240
@@ -196,8 +199,8 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MEGA&url=https%3A%2F
 #EXTINF:-1 tvg-name="Ten" tvg-id="TEN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TEN" tvg-chno="98" group-title="Movistar+",Ten
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TEN&url=https%3A%2F%2Ftvten-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TEN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5253
 
-#EXTINF:-1 tvg-name="SX3" tvg-id="SX3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SX3" tvg-chno="109" group-title="Movistar+" catchup="vod",SX3
-https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:-1 tvg-name="SX3" tvg-id="SX3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C33" tvg-chno="109" group-title="Movistar+" catchup="vod",SX3
+rtp://@239.0.0.204:8208
 
 #EXTINF:-1 tvg-name="Baby TV" tvg-id="BABY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BABY" tvg-chno="110" group-title="Movistar+",Baby TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BABY&url=https%3A%2F%2Fbabytv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BABY%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4508
@@ -220,24 +223,14 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BOING&url=https%3A%2
 #EXTINF:-1 tvg-name="Clan TVE" tvg-id="CLANTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLANTV" tvg-chno="118" group-title="Movistar+",Clan TVE
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CLANTV&url=https%3A%2F%2Fclan-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CLANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4611
 
-#EXTINF:-1 tvg-name="MTV" tvg-id="MTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MTV" tvg-chno="120" group-title="Movistar+",MTV
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MTV&url=https%3A%2F%2Fespanamtv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4499
-
-#EXTINF:-1 tvg-name="MTV 00s" tvg-id="VH1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VH1" tvg-chno="121" group-title="Movistar+",MTV 00s
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VH1&url=https%3A%2F%2F00smtv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22VH1%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4567
-
-#EXTINF:-1 tvg-id="SolMusica.TV" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" tvg-chno="122" group-title="Movistar+" tvg-name="Sol Música España",Sol Música España
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-chno="123" group-title="Movistar+" tvg-name="Muzzik Rock&Roll Serbia",Muzzik Rock&Roll Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="324" tvg-id="324.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png" tvg-chno="126" group-title="Movistar+" catchup="vod",3/24
+#EXTINF:-1 tvg-name="324" tvg-id="324.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png" tvg-chno="125" group-title="Movistar+" catchup="vod",3/24
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
+#EXTINF:-1 tvg-name="24 Horas Cat" tvg-id="24H_CAT.TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" tvg-chno="126" group-title="Movistar+",24 Horas Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+
 #EXTINF:-1 tvg-name="24 Horas" tvg-id="24H" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" tvg-chno="127" group-title="Movistar+",24 Horas
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=24H&url=https%3A%2F%2F24horas-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%2224H%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4544
+rtp://@239.0.5.143:8208
 
 #EXTINF:-1 tvg-name="BBC World" tvg-id="BBC" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBC" tvg-chno="128" group-title="Movistar+",BBC World
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BBC&url=https%3A%2F%2Fworldbbc-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BBC%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5256
@@ -296,32 +289,32 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TVC&url=https%3A%2F%
 #EXTINF:-1 tvg-name="Telemadrid Internacional" tvg-id="Telemadrid Internacional" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN" tvg-chno="157" group-title="Movistar+",Telemadrid Internacional
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TELMIN&url=https%3A%2F%2Finttelemadrid-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TELMIN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5092
 
-#EXTINF:-1 tvg-name="Movistar Plus+ 2" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS2" tvg-chno="176" group-title="Movistar+",Movistar Plus+ 2
-plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS2&url=https%3A%2F%2F2plus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5264
-
-#EXTINF:-1 tvg-name="La 7 Murcia" tvg-id="La 7 Murcia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/7TVMUR" tvg-chno="200" group-title="Movistar+",La 7 Murcia
+#EXTINF:-1 tvg-name="La 7 Murcia" tvg-id="La 7 Murcia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/7TVMUR" tvg-chno="199" group-title="Movistar+",La 7 Murcia
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=7TVMUR&url=https%3A%2F%2Ftdtmurcia-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%227TVMUR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5356
 
-#EXTINF:-1 tvg-name="Canal Sur" tvg-id="CANSUR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANSUR" tvg-chno="201" group-title="Movistar+",Canal Sur
+#EXTINF:-1 tvg-name="Canal Sur" tvg-id="CANSUR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANSUR" tvg-chno="200" group-title="Movistar+",Canal Sur
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CANSUR&url=https%3A%2F%2Ftdtcsur-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CANSUR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4980
 
-#EXTINF:-1 tvg-name="Telemadrid" tvg-id="TELMAD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMAD" tvg-chno="202" group-title="Movistar+",Telemadrid
+#EXTINF:-1 tvg-name="Telemadrid" tvg-id="TELMAD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMAD" tvg-chno="201" group-title="Movistar+",Telemadrid
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TELMAD&url=https%3A%2F%2Ftdttelemadrid-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TELMAD%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4981
 
-#EXTINF:-1 tvg-name="TVG" tvg-id="TVG" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVGAL" tvg-chno="203" group-title="Movistar+",TVG
+#EXTINF:-1 tvg-name="TVG" tvg-id="TVG" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVGAL" tvg-chno="202" group-title="Movistar+",TVG
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TVGAL&url=https%3A%2F%2Ftdt1galicia-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TVGAL%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4983
 
-#EXTINF:-1 tvg-name="Canal Extremadura" tvg-id="EXTRE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/EXTRE" tvg-chno="204" group-title="Movistar+",Canal Extremadura
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-id="EXTRE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/EXTRE" tvg-chno="203" group-title="Movistar+",Canal Extremadura
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=EXTRE&url=https%3A%2F%2Ftdtextremad-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22EXTRE%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5357
 
-#EXTINF:-1 tvg-name="Aragón TV" tvg-id="ARAGTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGTV" tvg-chno="205" group-title="Movistar+",Aragón TV
+#EXTINF:-1 tvg-name="Aragón TV" tvg-id="ARAGTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGTV" tvg-chno="204" group-title="Movistar+",Aragón TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ARAGTV&url=https%3A%2F%2Ftdttvaragon-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ARAGTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5090
 
-#EXTINF:-1 tvg-name="Navarra TV" tvg-id="NAVA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NAVA" tvg-chno="206" group-title="Movistar+",Navarra TV
+#EXTINF:-1 tvg-name="Navarra TV" tvg-id="NAVA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NAVA" tvg-chno="205" group-title="Movistar+",Navarra TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=NAVA&url=https%3A%2F%2Ftdtnavarra-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22NAVA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5210
 
-#EXTINF:-1 tvg-name="ETB 1" tvg-id="ETB1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB1" tvg-chno="207" group-title="Movistar+",ETB 1
+#EXTINF:-1 tvg-name="ETB 1" tvg-id="ETB1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB1" tvg-chno="206" group-title="Movistar+",ETB 1
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=ETB1&url=https%3A%2F%2Ftdt1etb-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22ETB1%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5074
+
+#EXTINF:-1 tvg-id="ETB2" tvg-chno="206" group-title="Movistar+",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-name="TV Canaria" tvg-id="CANAR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANAR" tvg-chno="208" group-title="Movistar+",TV Canaria
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CANAR&url=https%3A%2F%2Ftdttvcanarias-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CANAR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5089
@@ -333,26 +326,160 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CASMAN&url=https%3A%
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CYLTV&url=https%3A%2F%2Ftdtcastleon-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CYLTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5266
 
 #EXTINF:-1 tvg-name="La 1 Cataluña" tvg-id="La1_CAT.TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" tvg-chno="211" group-title="Movistar+",LA 1 Catalunya
-https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-name="La 2 Cataluña" tvg-id="La2_CAT.TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2" tvg-chno="212" group-title="Movistar+",LA 2 Catalunya
-https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 
-#EXTINF:-1 tvg-id="BonDiaTV_CAT.TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png"  tvg-chno="213" group-title="Movistar+" tvg-name="Bon Dia TV",Bon Dia TV
+#EXTINF:-1 tvg-id="BonDiaTV_CAT.TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png"  tvg-chno="214" group-title="Movistar+" tvg-name="Bon Dia TV",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200"  tvg-chno="214" group-title="Movistar+" tvg-name="Canal 4 TV Mallorca",Canal 4 TV Mallorca
-https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200"  tvg-chno="215" group-title="Movistar+" tvg-name="Canal 4 TV Mallorca",Canal 4 TV Mallorca
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:4E71:2724:22D4:EEEE0000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200"  tvg-chno="215" group-title="Movistar+" tvg-name="TEF",TEF
-https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:19:2805:189C:22D4:EEEE0000:0:0:0:" tvg-name="fibwiTV HD",fibwiTV HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2805:189C:22D4:EEEE0000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Fibwidiario/picture?width=200&height=200"   tvg-chno="216" group-title="Movistar+" tvg-name="Fibwi Diario",Fibwi Diario
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200"  tvg-chno="217" group-title="Movistar+" tvg-name="TEF",TEF
+https://tef.servertv.online:3268/live/teflive.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Fibwidiario/picture?width=200&height=200"   tvg-chno="218" group-title="Movistar+" tvg-name="Fibwi Diario",Fibwi Diario
 https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200" tvg-chno="217" group-title="Movistar+" tvg-name="SAM Ibiza",SAM Ibiza
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200" tvg-chno="219" group-title="Movistar+" tvg-name="SAM Ibiza",SAM Ibiza
 https://hls1.eu.peppermindmedia.com/av:vod1/SAMibiza/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200"  tvg-chno="218" group-title="Movistar+" tvg-name="betevé",betevé
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200"  tvg-chno="220" group-title="Movistar+" tvg-name="betevé",betevé
+rtp://@239.0.5.120:8208
 
+#EXTINF:-1 tvg-name="Movistar Plus+ 2" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS2" tvg-chno="222" group-title="Movistar+",Movistar Plus+ 2
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS2&url=https%3A%2F%2F2plus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS2%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5264
+
+#EXTINF:-1 tvg-chno="401" tvg-logo="http://192.168.1.129/images/default_picon.png" group-title="Movistar+" tvg-id="1:0:19:1BC:3EB:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:1BC:3EB:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="402" tvg-logo="http://192.168.1.129/images/default_picon.png" group-title="Movistar+" tvg-id="1:0:19:1C0:3EB:22D4:EEEE0000:0:0:0:" tvg-name="La 2 HD",La 2 HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:1C0:3EB:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="403" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:95:F:22D4:EEEE0000:0:0:0:" tvg-name="Antena 3",Antena 3
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:95:F:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="404" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:BF:10:22D4:EEEE0000:0:0:0:" tvg-name="Cuatro HD",Cuatro HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:BF:10:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="405" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:BE:10:22D4:EEEE0000:0:0:0:" tvg-name="Telecinco HD",Telecinco HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:BE:10:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="406" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:97:F:22D4:EEEE0000:0:0:0:" tvg-name="laSexta",laSexta
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:97:F:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="407" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:2807:189C:22D4:EEEE0000:0:0:0:" tvg-name="IB3HD",IB3HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2807:189C:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="408" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:4E71:2724:22D4:EEEE0000:0:0:0:" tvg-name="CANAL 4 HD",CANAL 4 HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:4E71:2724:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="409" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:2864:189C:22D4:EEEE0000:0:0:0:" tvg-name="TV3Cat",TV3Cat
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2864:189C:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="410" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:2865:189C:22D4:EEEE0000:0:0:0:" tvg-name="SX3/33",SX3/33
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2865:189C:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="411" tvg-logo="http://192.168.1.129/picon/24h.png" group-title="Movistar+" tvg-id="1:0:19:1BB:3EB:22D4:EEEE0000:0:0:0:" tvg-name="24h HD",24h HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:1BB:3EB:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="412" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+" tvg-id="1:0:19:2866:189C:22D4:EEEE0000:0:0:0:" tvg-name="3_24",3_24
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2866:189C:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="412" tvg-logo="http://192.168.1.129/images/default_picon.png" group-title="Movistar+"  tvg-id="1:0:19:2805:189C:22D4:EEEE0000:0:0:0:" tvg-name="fibwiTV HD",fibwiTV HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:19:2805:189C:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="413" tvg-logo="http://192.168.1.129/images/default_picon.png"  group-title="Movistar+"  tvg-id="1:0:1:3E8:4269:22D4:EEEE0000:0:0:0:" tvg-name="fibwi ClubTV HD",fibwi ClubTV HD
+http://root:qwerty123456@192.168.1.129:8001/1:0:1:3E8:4269:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="414" tvg-logo="http://192.168.1.129/images/default_picon.png" group-title="Movistar+"  tvg-id="1:0:1:1:4269:22D4:EEEE0000:0:0:0:" tvg-name="fibwi TV 4K",fibwi TV 4K
+http://root:qwerty123456@192.168.1.129:8001/1:0:1:1:4269:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-chno="415" tvg-logo="http://192.168.1.129/images/default_picon.png" group-title="Movistar+"  tvg-id="1:0:1F:9C43:9C40:22D4:EEEE0000:0:0:0:" tvg-name="La 1 UHD",La 1 UHD
+http://root:qwerty123456@192.168.1.129:8001/1:0:1F:9C43:9C40:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1 tvg-name="MTV" tvg-id="MTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MTV" tvg-chno="300" group-title="Movistar+",MTV
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MTV&url=https%3A%2F%2Fespanamtv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4499
+
+#EXTINF:-1 tvg-name="MTV 00s" tvg-id="VH1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VH1" tvg-chno="301" group-title="Movistar+",MTV 00s
+plugin://plugin.video.movistarplus/?action=play&stype=tv&id=VH1&url=https%3A%2F%2F00smtv-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22VH1%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4567
+
+#EXTINF:-1 tvg-chno="302" group-title="Movistar+" tvg-name="MTV Live" "tvg-id="MTVLive.uk",MTV Live UK
+http://190.102.246.93:9005/play/a01p
+
+#EXTINF:-1  tvg-chno="303" tvg-name="MTV Live" group-title="Movistar+" "tvg-id="MTVLive.us",MTV Live US
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1  tvg-chno="304" group-title="Movistar+" tvg-name="MTV Classic US" tvg-id="MTVClassic.us@East",MTV Classic US
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-chno="305" group-title="Movistar+" tvg-name="mtvU"  tvg-id="MTVU.us",mtvU
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-chno="306" group-title="Movistar+"  tvg-id="MTV2.us@East",MTV2 (720p)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1  tvg-chno="307" group-title="Movistar+"  tvg-id="MTVBiggestPop.us@Canada",MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
+
+#EXTINF:-1  tvg-chno="308" group-title="Movistar+"  tvg-id="MTVClassic.us@Canada",MTV Classic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
+
+#EXTINF:-1 tvg-chno="309" group-title="Movistar+" tvg-id="MTVSpankinNew",MTV Spankin’ New
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4
+
+#EXTINF:-1 tvg-id="SolMusica.TV" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" tvg-chno="310" group-title="Movistar+" tvg-name="Sol Música España",Sol Música España
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-chno="311" group-title="Movistar+" tvg-name="Muzzik Rock&Roll Serbia",Muzzik Rock&Roll Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="312" tvg-logo="http://192.168.1.129/images/default_picon.png" tvg-id="1:0:1:3E8:4269:22D4:EEEE0000:0:0:0:" tvg-name="fibwi ClubTV HD",fibwi ClubTV HD
+#EXTVLCOPT:program=312
+http://root:qwerty123456@192.168.1.129:8001/1:0:1:3E8:4269:22D4:EEEE0000:0:0:0:
+
+#EXTINF:-1  tvg-chno="313" group-title="Movistar+" tvg-id="PlutoTVMTVClassic.us",Pluto TV MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:-1  tvg-chno="314" group-title="Movistar+"  tvg-id="MTV2.us@East",MTV2 (720p)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1  tvg-chno="315" group-title="Movistar+"  tvg-id="MTV2.us@East",MTV2 East
+https://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1  tvg-chno="316" group-title="Movistar+"  tvg-id="MTVClassic.us@East",MTV Classic (360p)
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1  tvg-chno="317" group-title="Movistar+"  tvg-id="MTVClassic.us@East",MTV Classic East (720p)
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1  tvg-chno="318" group-title="Movistar+"  tvg-id="MTV.us@East",MTV East
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1  tvg-chno="319" group-title="Movistar+"  tvg-id="MTVLive.us",MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1  tvg-chno="320" group-title="Movistar+"  tvg-id="MTVLive.us",MTV Live (720p)
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1  tvg-chno="321" group-title="Movistar+"  tvg-id="HITTV.es",Hit Tv
+http://185.189.225.149/HitTV/index.m3u8
+
+#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+",CANAL+
+http://192.168.1.50:8888/hls
+
+#EXTINF:-1  tvg-chno="329" group-title="C+"  tvg-id="CANAL",CANAL+ Open
+http://192.168.1.50:8091/stream
+
+#EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24H_CAT" tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Cataluña" tvg-name="24h Catalunya",24h Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-id="RNE_Radio4.TV" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="Cataluña" tvg-name="Ràdio 4",Ràdio 4
+https://ztnr.rtve.es/ztnr/6982935.m3u8
