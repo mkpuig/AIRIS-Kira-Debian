@@ -488,13 +488,13 @@ https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1  tvg-chno="321" group-title="Movistar+"  tvg-id="HITTV.es",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+",CANAL+
+#EXTINF:-1  tvg-chno="327" group-title="C+"  tvg-id="CANAL+",CANAL+
 udp://@224.0.0.2:1234
 
-#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+",CANAL+
+#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+2",CANAL+2
 udp://192.168.1.50:1234
 
-#EXTINF:-1  tvg-chno="329" group-title="C+"  tvg-id="CANAL",CANAL+ Open
+#EXTINF:-1  tvg-chno="329" group-title="C+"  tvg-id="CANAL+ OPEN",CANAL+ Open
 http://192.168.1.50:8091/stream
 
 #EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+b",CANAL+b
