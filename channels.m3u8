@@ -2,9 +2,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 ## Movistar+
 
-#EXTINF:-1 tvg-name="CLEAR" tvg-id="CLEAR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" tvg-chno="1" group-title="Movistar+",CLEAR
-http://192.168.1.50:3000/api/stream-http
-
 #EXTINF:-1 tvg-name="LA 1" tvg-id="TVE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" tvg-chno="1" group-title="Movistar+",LA 1
 #EXTVLCOPT:program=1
 rtp://@239.0.0.185:8208
@@ -535,3 +532,6 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://ztnr.rtve.es/ztnr/6982935.m3u8
+
+#EXTINF:-1 tvg-name="CLEAR" tvg-id="CLEAR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" tvg-chno="1000" group-title="Movistar+",CLEAR
+http://192.168.1.50:3000/api/stream-http
