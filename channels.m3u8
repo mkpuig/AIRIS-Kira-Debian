@@ -22,7 +22,7 @@ rtp://@239.0.0.176:8208
 #EXTINF:-1 tvg-name="La Sexta" tvg-id="SEXTA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEXTA" tvg-chno="6" group-title="Movistar+",La Sexta
 rtp://@239.0.0.187:8208
 
-#EXTINF:-1,tvg-name="La Séptima"  tvg-id="SEPTIMA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEPTIMA" tvg-chno="7" group-title="Movistar+",La Sexta
+#EXTINF:-1,tvg-name="La Séptima" tvg-id="SEPTIMA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEPTIMA" tvg-chno="7" group-title="Movistar+",La Séptima
 rtp://@239.0.5.231:8208
 
 #EXTINF:-1 tvg-name="IB3 TV Illes Balears" tvg-id="IB3 TV Illes Balears" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IB3" tvg-chno="8" group-title="Movistar+",IB3 TV Illes Balears
