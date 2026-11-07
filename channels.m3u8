@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 ## Movistar+
+
 #EXTINF:-1 tvg-name="LA 1" tvg-id="TVE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" tvg-chno="1" group-title="Movistar+",LA 1
 #EXTVLCOPT:program=1
 rtp://@239.0.0.185:8208
@@ -21,33 +22,36 @@ rtp://@239.0.0.176:8208
 #EXTINF:-1 tvg-name="La Sexta" tvg-id="SEXTA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEXTA" tvg-chno="6" group-title="Movistar+",La Sexta
 rtp://@239.0.0.187:8208
 
-#EXTINF:-1 tvg-name="IB3 TV Illes Balears" tvg-id="IB3 TV Illes Balears" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IB3" tvg-chno="7" group-title="Movistar+",IB3 TV Illes Balears
+#EXTINF:-1 tvg-name="La Séptima" tvg-id="SEPTIMA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEPTIMA" tvg-chno="7" group-title="Movistar+",La Séptima
+rtp://@239.0.5.231:8208
+
+#EXTINF:-1 tvg-name="IB3 TV Illes Balears" tvg-id="IB3 TV Illes Balears" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IB3" tvg-chno="8" group-title="Movistar+",IB3 TV Illes Balears
 #EXTVLCOPT:program=7
 #http://root:qwerty123456@192.168.1.129:8001/1:0:19:2807:189C:22D4:EEEE0000:0:0:0:
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=IB3&url=https%3A%2F%2Ftdt3ibiza-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22IB3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5091
 
-#EXTINF:-1 tvg-name="TV3" tvg-id="TV3 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV3CAT" tvg-chno="8" group-title="Movistar+",TV3
+#EXTINF:-1 tvg-name="TV3" tvg-id="TV3 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV3CAT" tvg-chno="9" group-title="Movistar+",TV3
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TV3CAT&url=https%3A%2F%2Ftdttv3-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TV3CAT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4982
 
-#EXTINF:-1 tvg-name="El 33 Catalunya" tvg-id=El 33 Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png" tvg-chno="9" group-title="Movistar+" catchup="vod",C33
+#EXTINF:-1 tvg-name="El 33 Catalunya" tvg-id=El 33 Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png" tvg-chno="10" group-title="Movistar+" catchup="vod",C33
 rtp://@239.0.5.137:8208
 
-#EXTINF:-1 tvg-name="À Punt" tvg-id="APUNT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" tvg-chno="10" group-title="Movistar+",À Punt
+#EXTINF:-1 tvg-name="À Punt" tvg-id="APUNT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" tvg-chno="11" group-title="Movistar+",À Punt
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=APUNT&url=https%3A%2F%2Ftdtapuntvalencia-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22APUNT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5088
 
-#EXTINF:-1 tvg-name="Movistar Plus+" tvg-id="MPLUS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" tvg-chno="11" group-title="Movistar+",Movistar Plus+
+#EXTINF:-1 tvg-name="Movistar Plus+" tvg-id="MPLUS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" tvg-chno="12" group-title="Movistar+",Movistar Plus+
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS&url=https%3A%2F%2Fmplus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5240
 
-#EXTINF:-1 tvg-name="M+ Estrenos" tvg-id="MV1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1" tvg-chno="12" group-title="Movistar+",M+ Estrenos
+#EXTINF:-1 tvg-name="M+ Estrenos" tvg-id="MV1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1" tvg-chno="13" group-title="Movistar+",M+ Estrenos
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MV1&url=https%3A%2F%2F1mcine-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MV1%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4501
 
-#EXTINF:-1 tvg-name="M+ Hits" tvg-id="MHITS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS" tvg-chno="13" group-title="Movistar+",M+ Hits
+#EXTINF:-1 tvg-name="M+ Hits" tvg-id="MHITS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS" tvg-chno="14" group-title="Movistar+",M+ Hits
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MHITS&url=https%3A%2F%2Fm1series-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MHITS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4527
 
-#EXTINF:-1 tvg-name="M+ Originales" tvg-id="MORIG" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" tvg-chno="14" group-title="Movistar+",M+ Originales
+#EXTINF:-1 tvg-name="M+ Originales" tvg-id="MORIG" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" tvg-chno="15" group-title="Movistar+",M+ Originales
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2F%2Fmoriginales-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MORIG%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5259
 
-#EXTINF:-1 tvg-name="M+ Oscars" tvg-id="MOSCAR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MOSCAR" tvg-chno="15" group-title="Movistar+",M+ Oscars
+#EXTINF:-1 tvg-name="M+ Oscars" tvg-id="MOSCAR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MOSCAR" tvg-chno="16" group-title="Movistar+",M+ Oscars
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MOSCAR&url=https%3A%2F%2F1popup-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MOSCAR%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4955
 
 #EXTINF:-1 tvg-name="M+ Documentales" tvg-id="MDOC" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" tvg-chno="17" group-title="Movistar+",M+ Documentales
@@ -484,10 +488,13 @@ https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1  tvg-chno="321" group-title="Movistar+"  tvg-id="HITTV.es",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+",CANAL+
+#EXTINF:-1  tvg-chno="327" group-title="C+"  tvg-id="CANAL+",CANAL+
 udp://@224.0.0.2:1234
 
-#EXTINF:-1  tvg-chno="329" group-title="C+"  tvg-id="CANAL",CANAL+ Open
+#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+2",CANAL+2
+udp://@192.168.1.50:1234
+
+#EXTINF:-1  tvg-chno="329" group-title="C+"  tvg-id="CANAL+ OPEN",CANAL+ Open
 http://192.168.1.50:8091/stream
 
 #EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+b",CANAL+b
@@ -528,3 +535,6 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://ztnr.rtve.es/ztnr/6982935.m3u8
+
+#EXTINF:-1 tvg-name="CLEAR" tvg-id="CLEAR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" tvg-chno="1000" group-title="Movistar+",CLEAR
+http://192.168.1.50:3000/api/stream-http
