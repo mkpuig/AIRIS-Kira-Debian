@@ -25,7 +25,7 @@ rtp://@239.0.5.231:8208
 #EXTINF:-1 tvg-name="IB3 TV Illes Balears" tvg-id="IB3 TV Illes Balears" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IB3" tvg-chno="8" group-title="Movistar+",IB3 TV Illes Balears
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=IB3&url=https%3A%2F%2Ftdt3ibiza-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22IB3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5091
 
-#EXTINF:-1 tvg-name="TV3" tvg-id="TV3CAT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV3CAT" tvg-chno="9" group-title="Movistar+",TV3
+#EXTINF:-1 tvg-name="TV3" tvg-id="TV3CAT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV3CAT" tvg-chno="9c" group-title="Movistar+",TV3
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=TV3CAT&url=https%3A%2F%2Ftdttv3-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22TV3CAT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4982
 
 #EXTINF:-1 tvg-name="À Punt" tvg-id="APUNT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" tvg-chno="10" group-title="Movistar+",À Punt
