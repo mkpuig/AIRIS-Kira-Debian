@@ -218,3 +218,132 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CASMAN&url=https%3A%
 
 #EXTINF:-1 tvg-name="24 Horas Cat" tvg-id="24H" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" tvg-chno="219" group-title="Movistar+",24 Horas Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="501" tvg-name="fibwiTV HD" tvg-logo="" group-title="DVB-T",fibwiTV HD
+http://192.168.1.50:3000/api/stream/fibwiTV%20HD
+#EXTINF:-1 tvg-id="502" tvg-name="IB3HD" tvg-logo="" group-title="DVB-T",IB3HD
+http://192.168.1.50:3000/api/stream/IB3HD
+#EXTINF:-1 tvg-id="503" tvg-name="IB3 RADIO" tvg-logo="" group-title="DVB-T",IB3 RADIO
+http://192.168.1.50:3000/api/stream/IB3%20RADIO
+#EXTINF:-1 tvg-id="504" tvg-name="TV3Cat" tvg-logo="" group-title="DVB-T",TV3Cat
+http://192.168.1.50:3000/api/stream/TV3Cat
+#EXTINF:-1 tvg-id="505" tvg-name="SX3/33" tvg-logo="" group-title="DVB-T",SX3/33
+http://192.168.1.50:3000/api/stream/SX3%2F33
+#EXTINF:-1 tvg-id="506" tvg-name="3CatInfo" tvg-logo="" group-title="DVB-T",3CatInfo
+http://192.168.1.50:3000/api/stream/3CatInfo
+#EXTINF:-1 tvg-id="507" tvg-name="CAT RADIO" tvg-logo="" group-title="DVB-T",CAT RADIO
+http://192.168.1.50:3000/api/stream/CAT%20RADIO
+#EXTINF:-1 tvg-id="508" tvg-name="FDF" tvg-logo="" group-title="DVB-T",FDF
+http://192.168.1.50:3000/api/stream/FDF
+#EXTINF:-1 tvg-id="509" tvg-name="Divinity" tvg-logo="" group-title="DVB-T",Divinity
+http://192.168.1.50:3000/api/stream/Divinity
+#EXTINF:-1 tvg-id="510" tvg-name="Telecinco HD" tvg-logo="" group-title="DVB-T",Telecinco HD
+http://192.168.1.50:3000/api/stream/Telecinco%20HD
+#EXTINF:-1 tvg-id="511" tvg-name="Cuatro HD" tvg-logo="" group-title="DVB-T",Cuatro HD
+http://192.168.1.50:3000/api/stream/Cuatro%20HD
+#EXTINF:-1 tvg-id="512" tvg-name="SQUIRREL" tvg-logo="" group-title="DVB-T",SQUIRREL
+http://192.168.1.50:3000/api/stream/SQUIRREL
+#EXTINF:-1 tvg-id="513" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="DVB-T",PARAMOUNT NETWORK
+http://192.168.1.50:3000/api/stream/PARAMOUNT%20NETWORK
+#EXTINF:-1 tvg-id="514" tvg-name="DMAX" tvg-logo="" group-title="DVB-T",DMAX
+http://192.168.1.50:3000/api/stream/DMAX
+#EXTINF:-1 tvg-id="515" tvg-name="VEO 7" tvg-logo="" group-title="DVB-T",VEO 7
+http://192.168.1.50:3000/api/stream/VEO%207
+#EXTINF:-1 tvg-id="516" tvg-name="RADIO MARCA" tvg-logo="" group-title="DVB-T",RADIO MARCA
+http://192.168.1.50:3000/api/stream/RADIO%20MARCA
+#EXTINF:-1 tvg-id="517" tvg-name="CADENA 100" tvg-logo="" group-title="DVB-T",CADENA 100
+http://192.168.1.50:3000/api/stream/CADENA%20100
+#EXTINF:-1 tvg-id="518" tvg-name="RADIO MARIA" tvg-logo="" group-title="DVB-T",RADIO MARIA
+http://192.168.1.50:3000/api/stream/RADIO%20MARIA
+#EXTINF:-1 tvg-id="519" tvg-name="BOM RADIO" tvg-logo="" group-title="DVB-T",BOM RADIO
+http://192.168.1.50:3000/api/stream/BOM%20RADIO
+#EXTINF:-1 tvg-id="520" tvg-name="MEGA" tvg-logo="" group-title="DVB-T",MEGA
+http://192.168.1.50:3000/api/stream/MEGA
+#EXTINF:-1 tvg-id="521" tvg-name="ONDA CERO" tvg-logo="" group-title="DVB-T",ONDA CERO
+http://192.168.1.50:3000/api/stream/ONDA%20CERO
+#EXTINF:-1 tvg-id="522" tvg-name="EUROPA FM" tvg-logo="" group-title="DVB-T",EUROPA FM
+http://192.168.1.50:3000/api/stream/EUROPA%20FM
+#EXTINF:-1 tvg-id="523" tvg-name="Melodia FM" tvg-logo="" group-title="DVB-T",Melodia FM
+http://192.168.1.50:3000/api/stream/Melodia%20FM
+#EXTINF:-1 tvg-id="524" tvg-name="TRECE" tvg-logo="" group-title="DVB-T",TRECE
+http://192.168.1.50:3000/api/stream/TRECE
+#EXTINF:-1 tvg-id="525" tvg-name="COPE" tvg-logo="" group-title="DVB-T",COPE
+http://192.168.1.50:3000/api/stream/COPE
+#EXTINF:-1 tvg-id="526" tvg-name="Rock FM" tvg-logo="" group-title="DVB-T",Rock FM
+http://192.168.1.50:3000/api/stream/Rock%20FM
+#EXTINF:-1 tvg-id="527" tvg-name="Energy" tvg-logo="" group-title="DVB-T",Energy
+http://192.168.1.50:3000/api/stream/Energy
+#EXTINF:-1 tvg-id="528" tvg-name="Boing" tvg-logo="" group-title="DVB-T",Boing
+http://192.168.1.50:3000/api/stream/Boing
+#EXTINF:-1 tvg-id="529" tvg-name="Antena 3" tvg-logo="" group-title="DVB-T",Antena 3
+http://192.168.1.50:3000/api/stream/Antena%203
+#EXTINF:-1 tvg-id="530" tvg-name="laSexta" tvg-logo="" group-title="DVB-T",laSexta
+http://192.168.1.50:3000/api/stream/laSexta
+#EXTINF:-1 tvg-id="531" tvg-name="neox" tvg-logo="" group-title="DVB-T",neox
+http://192.168.1.50:3000/api/stream/neox
+#EXTINF:-1 tvg-id="532" tvg-name="nova" tvg-logo="" group-title="DVB-T",nova
+http://192.168.1.50:3000/api/stream/nova
+#EXTINF:-1 tvg-id="533" tvg-name="A3Series" tvg-logo="" group-title="DVB-T",A3Series
+http://192.168.1.50:3000/api/stream/A3Series
+#EXTINF:-1 tvg-id="534" tvg-name="BeMad tv HD" tvg-logo="" group-title="DVB-T",BeMad tv HD
+http://192.168.1.50:3000/api/stream/BeMad%20tv%20HD
+#EXTINF:-1 tvg-id="535" tvg-name="Realmadrid TV HD" tvg-logo="" group-title="DVB-T",Realmadrid TV HD
+http://192.168.1.50:3000/api/stream/Realmadrid%20TV%20HD
+#EXTINF:-1 tvg-id="536" tvg-name="TEN" tvg-logo="" group-title="DVB-T",TEN
+http://192.168.1.50:3000/api/stream/TEN
+#EXTINF:-1 tvg-id="537" tvg-name="LOS40 Classic" tvg-logo="" group-title="DVB-T",LOS40 Classic
+http://192.168.1.50:3000/api/stream/LOS40%20Classic
+#EXTINF:-1 tvg-id="538" tvg-name="LOS40 Urban" tvg-logo="" group-title="DVB-T",LOS40 Urban
+http://192.168.1.50:3000/api/stream/LOS40%20Urban
+#EXTINF:-1 tvg-id="539" tvg-name="Radiolé" tvg-logo="" group-title="DVB-T",Radiolé
+http://192.168.1.50:3000/api/stream/Radiol%C3%A9
+#EXTINF:-1 tvg-id="540" tvg-name="tdp HD" tvg-logo="" group-title="DVB-T",tdp HD
+http://192.168.1.50:3000/api/stream/tdp%20HD
+#EXTINF:-1 tvg-id="541" tvg-name="24h HD" tvg-logo="" group-title="DVB-T",24h HD
+http://192.168.1.50:3000/api/stream/24h%20HD
+#EXTINF:-1 tvg-id="542" tvg-name="La 1 HD" tvg-logo="" group-title="DVB-T",La 1 HD
+http://192.168.1.50:3000/api/stream/La%201%20HD
+#EXTINF:-1 tvg-id="543" tvg-name="RNE Baleares" tvg-logo="" group-title="DVB-T",RNE Baleares
+http://192.168.1.50:3000/api/stream/RNE%20Baleares
+#EXTINF:-1 tvg-id="544" tvg-name="Radio 5 RNE" tvg-logo="" group-title="DVB-T",Radio 5 RNE
+http://192.168.1.50:3000/api/stream/Radio%205%20RNE
+#EXTINF:-1 tvg-id="545" tvg-name="Ràdio 4 RNE" tvg-logo="" group-title="DVB-T",Ràdio 4 RNE
+http://192.168.1.50:3000/api/stream/R%C3%A0dio%204%20RNE
+#EXTINF:-1 tvg-id="546" tvg-name="La 2 HD" tvg-logo="" group-title="DVB-T",La 2 HD
+http://192.168.1.50:3000/api/stream/La%202%20HD
+#EXTINF:-1 tvg-id="547" tvg-name="A3 UHD" tvg-logo="" group-title="DVB-T",A3 UHD
+http://192.168.1.50:3000/api/stream/A3%20UHD
+#EXTINF:-1 tvg-id="548" tvg-name="La 2 UHD" tvg-logo="" group-title="DVB-T",La 2 UHD
+http://192.168.1.50:3000/api/stream/La%202%20UHD
+#EXTINF:-1 tvg-id="549" tvg-name="La 1 UHD" tvg-logo="" group-title="DVB-T",La 1 UHD
+http://192.168.1.50:3000/api/stream/La%201%20UHD
+#EXTINF:-1 tvg-id="550" tvg-name="RNE Accesible" tvg-logo="" group-title="DVB-T",RNE Accesible
+http://192.168.1.50:3000/api/stream/RNE%20Accesible
+#EXTINF:-1 tvg-id="551" tvg-name="Telecinco UHD" tvg-logo="" group-title="DVB-T",Telecinco UHD
+http://192.168.1.50:3000/api/stream/Telecinco%20UHD
+#EXTINF:-1 tvg-id="552" tvg-name="fibwi TV 4K" tvg-logo="" group-title="DVB-T",fibwi TV 4K
+http://192.168.1.50:3000/api/stream/fibwi%20TV%204K
+#EXTINF:-1 tvg-id="553" tvg-name="Informacion" tvg-logo="" group-title="DVB-T",Informacion
+http://192.168.1.50:3000/api/stream/Informacion
+#EXTINF:-1 tvg-id="554" tvg-name="fibwi ClubTV HD" tvg-logo="" group-title="DVB-T",fibwi ClubTV HD
+http://192.168.1.50:3000/api/stream/fibwi%20ClubTV%20HD
+#EXTINF:-1 tvg-id="555" tvg-name="CANAL 4 HD" tvg-logo="" group-title="DVB-T",CANAL 4 HD
+http://192.168.1.50:3000/api/stream/CANAL%204%20HD
+#EXTINF:-1 tvg-id="556" tvg-name="Radio Murta" tvg-logo="" group-title="DVB-T",Radio Murta
+http://192.168.1.50:3000/api/stream/Radio%20Murta
+#EXTINF:-1 tvg-id="557" tvg-name="Das Inselradio" tvg-logo="" group-title="DVB-T",Das Inselradio
+http://192.168.1.50:3000/api/stream/Das%20Inselradio
+#EXTINF:-1 tvg-id="558" tvg-name="Mallorca Sunshine Radio" tvg-logo="" group-title="DVB-T",Mallorca Sunshine Radio
+http://192.168.1.50:3000/api/stream/Mallorca%20Sunshine%20Radio
+#EXTINF:-1 tvg-id="559" tvg-name="Última Hora Radio" tvg-logo="" group-title="DVB-T",Última Hora Radio
+http://192.168.1.50:3000/api/stream/%C3%9Altima%20Hora%20Radio
+#EXTINF:-1 tvg-id="560" tvg-name="Canal 4 Radio" tvg-logo="" group-title="DVB-T",Canal 4 Radio
+http://192.168.1.50:3000/api/stream/Canal%204%20Radio
+#EXTINF:-1 tvg-id="561" tvg-name="Solidaria TV" tvg-logo="" group-title="DVB-T",Solidaria TV
+http://192.168.1.50:3000/api/stream/Solidaria%20TV
+#EXTINF:-1 tvg-id="562" tvg-name="Radio Solidaria" tvg-logo="" group-title="DVB-T",Radio Solidaria
+http://192.168.1.50:3000/api/stream/Radio%20Solidaria
+#EXTINF:-1 tvg-id="563" tvg-name="Fiesta FM" tvg-logo="" group-title="DVB-T",Fiesta FM
+http://192.168.1.50:3000/api/stream/Fiesta%20FM
+#EXTINF:-1 tvg-id="564" tvg-name="UHD-2" tvg-logo="" group-title="DVB-T",UHD-2
+http://192.168.1.50:3000/api/stream/UHD-2
