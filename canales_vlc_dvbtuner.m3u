@@ -1,0 +1,376 @@
+#EXTM3U
+#EXTINF:-1,UHD-2
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=12502
+#EXTVLCOPT:no-audio-passthrough
+dvb-t2://frequency=482000000:bandwidth=8
+#EXTINF:-1,fibwiTV HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=10245
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=514000000:bandwidth=8
+#EXTINF:-1,IB3HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=10247
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=514000000:bandwidth=8
+#EXTINF:-1,IB3 RADIO
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=10248
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=514000000:bandwidth=8
+#EXTINF:-1,TV3Cat
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=10340
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=514000000:bandwidth=8
+#EXTINF:-1,SX3/33
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=10341
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=514000000:bandwidth=8
+#EXTINF:-1,3CatInfo
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=10342
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=514000000:bandwidth=8
+#EXTINF:-1,CAT RADIO
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=10344
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=514000000:bandwidth=8
+#EXTINF:-1,Antena 3
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=149
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=546000000:bandwidth=8
+#EXTINF:-1,A3Series
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=150
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=546000000:bandwidth=8
+#EXTINF:-1,laSexta
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=151
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=546000000:bandwidth=8
+#EXTINF:-1,neox
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=153
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=546000000:bandwidth=8
+#EXTINF:-1,nova
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=154
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=546000000:bandwidth=8
+#EXTINF:-1,LA SÉPTIMA
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=101
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,DKISS
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=102
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,Realmadrid TV HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=103
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,TEN
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=104
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,LOS40 Classic
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=105
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,LOS40 Urban
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=106
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,Radiolé
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=107
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,Kiss FM
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=121
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,HIT FM
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=122
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,esRadio
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=123
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,SER
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=124
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,LOS40
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=125
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,DIAL
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=126
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=562000000:bandwidth=8
+#EXTINF:-1,BeMad tv
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=187
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=586000000:bandwidth=8
+#EXTINF:-1,FDF
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=188
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=586000000:bandwidth=8
+#EXTINF:-1,Divinity
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=189
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=586000000:bandwidth=8
+#EXTINF:-1,Telecinco
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=190
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=586000000:bandwidth=8
+#EXTINF:-1,Cuatro
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=191
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=586000000:bandwidth=8
+#EXTINF:-1,CANAL 4 HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=20081
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=602000000:bandwidth=8
+#EXTINF:-1,Radio Murta
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=20083
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=602000000:bandwidth=8
+#EXTINF:-1,Das Inselradio
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=20085
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=602000000:bandwidth=8
+#EXTINF:-1,Mallorca Sunshine Radio
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=20086
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=602000000:bandwidth=8
+#EXTINF:-1,Última Hora Radio
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=20087
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=602000000:bandwidth=8
+#EXTINF:-1,Canal 4 Radio
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=20088
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=602000000:bandwidth=8
+#EXTINF:-1,fibwi TV 4K
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=1
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=634000000:bandwidth=8
+#EXTINF:-1,Informacion
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=3
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=634000000:bandwidth=8
+#EXTINF:-1,fibwi ClubTV HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=1000
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=634000000:bandwidth=8
+#EXTINF:-1,A3 UHD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=152
+#EXTVLCOPT:no-audio-passthrough
+dvb-t2://frequency=642000000:bandwidth=8
+#EXTINF:-1,La 2 UHD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=40001
+#EXTVLCOPT:no-audio-passthrough
+dvb-t2://frequency=642000000:bandwidth=8
+#EXTINF:-1,La 1 UHD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=40003
+#EXTVLCOPT:no-audio-passthrough
+dvb-t2://frequency=642000000:bandwidth=8
+#EXTINF:-1,RNE Accesible
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=40005
+#EXTVLCOPT:no-audio-passthrough
+dvb-t2://frequency=642000000:bandwidth=8
+#EXTINF:-1,Telecinco UHD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=41009
+#EXTVLCOPT:no-audio-passthrough
+dvb-t2://frequency=642000000:bandwidth=8
+#EXTINF:-1,tdp HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=440
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,Radio3 HQ RNE
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=441
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,Radio Clasica HQ RNE
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=442
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,24h HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=443
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,La 1 HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=444
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,RNE Baleares
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=445
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,Radio 5 RNE
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=446
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,Ràdio 4 RNE
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=447
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,La 2 HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=448
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,Clan HD
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=449
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,Radio Exterior RNE
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=593
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=666000000:bandwidth=8
+#EXTINF:-1,SQUIRREL
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=201
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,SQUIRREL2
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=202
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,DMAX
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=277
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,VEO 7
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=278
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,RADIO MARCA
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=280
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,CADENA 100
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=282
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,RADIO MARIA
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=283
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,SQUIRREL_SERV_4
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=304
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,SQUIRREL_SERV_5
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=305
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,BOM RADIO 
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=306
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=682000000:bandwidth=8
+#EXTINF:-1,MEGA
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=155
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,ONDA CERO
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=156
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,EUROPA FM
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=157
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,Melodia FM
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=158
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,TRECE
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=170
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,COPE
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=171
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,Rock FM
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=172
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,Energy
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=192
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
+#EXTINF:-1,Boing
+#EXTVLCOPT:dvb-adapter=0
+#EXTVLCOPT:program=193
+#EXTVLCOPT:no-audio-passthrough
+dvb-t://frequency=690000000:bandwidth=8
