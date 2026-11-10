@@ -118,7 +118,7 @@ rtp://@239.0.0.204:8208
 #EXTINF:-1 tvg-name="Boing" tvg-id="BOING" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/BOING" tvg-chno="117" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Boing
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BOING&url=https%3A%2F%2Fboing-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22BOING%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4563
 
-#EXTINF:-1 tvg-name="Clan TVE" tvg-id="CLANHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/CLANHD" tvg-chno="118" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Clan TVE
+#EXTINF:-1 tvg-name="Clan TVE" tvg-id="CLANTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/CLANTV" tvg-chno="118" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Clan TVE
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CLANTV&url=https%3A%2F%2Fclan-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CLANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4611
 
 #EXTINF:-1 tvg-name="3CatInfo" tvg-id="324.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png" tvg-chno="125" group-title="Movistar+" catchup="vod",3/24
