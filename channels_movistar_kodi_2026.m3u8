@@ -40,7 +40,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MORIG&url=https%3A%2
 #EXTINF:-1 tvg-name="M+ Cine Español" tvg-id="DCESP" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/DCESP" tvg-chno="25" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",M+ Cine Español
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=DCESP&url=https%3A%2F%2Fespanol-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22DCESP%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4502
 
-#EXTINF:-1 tvg-name="Squirrel" tvg-id="SQUI" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/SQUI" tvg-chno="35" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Squirrel
+#EXTINF:-1 tvg-name="Squirrel" tvg-id="SQUI" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/SQUI" tvg-chno="35" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Squirrel TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SQUI&url=https%3A%2F%2Ftvsquirrel-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SQUI%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5509
 
 #EXTINF:-1 tvg-name="BE MAD" tvg-id="BEMAD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/BEMAD" tvg-chno="36" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",BE MAD
@@ -121,7 +121,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=BOING&url=https%3A%2
 #EXTINF:-1 tvg-name="Clan" tvg-id="Clan" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/CLANTV" tvg-chno="118" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Clan
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CLANTV&url=https%3A%2F%2Fclan-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CLANTV%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=4611
 
-#EXTINF:-1 tvg-name="3CatInfo" tvg-id="3CatInfo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png" tvg-chno="125" group-title="Movistar+" catchup="vod",3/24
+#EXTINF:-1 tvg-name="3CatInfo" tvg-id="3CatInfo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo%20Catalunya.png" tvg-chno="125" group-title="Movistar+" catchup="vod", 3CatInfo Catalunya
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1 tvg-name="24 Horas" tvg-id="24H" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/24H" tvg-chno="127" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",24 Horas
