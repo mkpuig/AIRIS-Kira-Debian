@@ -76,7 +76,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MELLAV&url=https%3A%
 #EXTINF:-1 tvg-name="Primera Federación" tvg-id="MCOPA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/MCOPA" tvg-chno="53" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Primera Federación
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MCOPA&url=https%3A%2F%2F01coparey-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MCOPA%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5355
 
-#EXTINF:-1 tvg-name="Esport 3" tvg-id="Esport3" tvg-logo=https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport3%20CAT.png" tvg-chno="54" group-title="Movistar+" catchup="vod",Esport3
+#EXTINF:-1 tvg-name="Esport 3" tvg-id="Esport3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/ESP3HD" tvg-chno="54" group-title="Movistar+" catchup="vod",Esport3
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-name="LALIGA TV HYPERMOTION" tvg-id="MLIGS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/MLIGS" tvg-chno="56" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",LALIGA TV HYPERMOTION
@@ -214,5 +214,5 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CANAR&url=https%3A%2
 #EXTINF:-1 tvg-name="Castilla la Mancha TV" tvg-id="CASMAN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/CASMAN" tvg-chno="218" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",Castilla la Mancha TV
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=CASMAN&url=https%3A%2F%2Ftdtcastmancha-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22CASMAN%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5265
 
-#EXTINF:-1 tvg-name="24 Horas Cat" tvg-id="24H" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" tvg-chno="219" group-title="Movistar+",24 Horas Catalunya
+#EXTINF:-1 tvg-name="24 Horas Cat" tvg-id="24HCAT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" tvg-chno="219" group-title="Movistar+",24 Horas Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8|User-Agent=Mozilla/5.0
