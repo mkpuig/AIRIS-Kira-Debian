@@ -22,7 +22,7 @@ plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SEXTA&url=https%3A%2
 #EXTINF:-1 tvg-name="La Séptima" tvg-id="SEPTIM" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/SEPTIM" tvg-chno="7" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",La Séptima
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=SEPTIM&url=https%3A%2F%2Flaseptima-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22SEPTIM%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5624
 
-#EXTINF:-1 tvg-name="IB3" tvg-id="IB3.es" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/IB3" tvg-chno="9" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",IB3
+#EXTINF:-1 tvg-name="IB3" tvg-id="IB3HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/IB3" tvg-chno="9" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",IB3
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=IB3&url=https%3A%2F%2Ftdt3ibiza-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22IB3%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5091
 
 #EXTINF:-1 tvg-name="TV3" tvg-id="TV3CAT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/samepg/TV3CAT" tvg-chno="10" catchup="default" catchup-source="{catchup-id}" catchup-days="7" group-title="Movistar+",TV3
