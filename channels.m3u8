@@ -491,14 +491,11 @@ http://185.189.225.149/HitTV/index.m3u8
 #EXTINF:-1  tvg-chno="327" group-title="C+"  tvg-id="CANAL+",CANAL+
 udp://@224.0.0.2:1234
 
-#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+2",CANAL+2
-udp://@192.168.1.50:1234
-
 #EXTINF:-1  tvg-chno="329" group-title="C+"  tvg-id="CANAL+ OPEN",CANAL+ Open
 http://192.168.1.50:8091/stream
 
-#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+b",CANAL+b
-http://192.168.1.50:8888/hls
+#EXTINF:-1  tvg-chno="328" group-title="C+"  tvg-id="CANAL+ DECODED",CANAL+ DECODED
+udp://@224.0.0.2:5000?overrun_nonfatal=1&fifo_size=100000000
 
 #EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
