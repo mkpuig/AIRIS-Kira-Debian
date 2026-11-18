@@ -39,6 +39,13 @@ rtp://@239.0.5.137:8208
 #EXTINF:-1 tvg-name="À Punt" tvg-id="APUNT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" tvg-chno="11" group-title="Movistar+",À Punt
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=APUNT&url=https%3A%2F%2Ftdtapuntvalencia-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22APUNT%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5088
 
+#EXTINF:-1, [144] Canal de las Estrellas HD 
+rtp://@239.0.5.236:8208
+#EXTINF:-1, [156] Aragón TV Int HD
+rtp://@239.0.5.237:8208
+#EXTINF:-1, [159] ETB2 On HD
+rtp://@239.0.5.238:8208
+
 #EXTINF:-1 tvg-name="Movistar Plus+" tvg-id="MPLUS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" tvg-chno="12" group-title="Movistar+",Movistar Plus+
 plugin://plugin.video.movistarplus/?action=play&stype=tv&id=MPLUS&url=https%3A%2F%2Fmplus-dash-movistarplus.emisiondof6.com%2Fmanifest.mpd&session_request=%7B%22contentID%22%3A%22MPLUS%22%2C+%22streamType%22%3A%22CHN%22%7D&cas_id=5240
 
