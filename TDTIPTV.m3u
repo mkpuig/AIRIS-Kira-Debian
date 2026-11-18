@@ -73,6 +73,12 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 https://ztnr.rtve.es/ztnr/6891743.m3u8
 #EXTINF:0,TVE Int. Europa
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:-1, [144] Canal de las Estrellas HD 
+rtp://@239.0.5.236:8208
+#EXTINF:-1, [156] Aragón TV Int HD
+rtp://@239.0.5.237:8208
+#EXTINF:-1, [159] ETB2 On HD
+rtp://@239.0.5.238:8208
 #EXTINF:0,RTVE Crimen
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 #EXTINF:0,RTVE Cuéntame
